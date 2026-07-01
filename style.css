@@ -1,0 +1,1042 @@
+/* ============================================
+   Animal Hospital Anomaly Guides - Main Stylesheet
+   Theme: Eerie Abandoned Animal Hospital Horror
+   ============================================ */
+
+/* ---------- CSS Variables (Color Scheme) ---------- */
+:root {
+  --color-primary: #4A646C;       /* 闂傚倸鍊搁崐鎼佸磹閹间礁纾归柟闂寸绾惧綊鏌熼梻瀵割槮缁炬儳缍婇弻鐔兼⒒鐎靛壊妲紒鐐劤缂嶅﹪寮婚悢鍏尖拻閻庨潧澹婂Σ顔剧磼閻愵剙鍔ょ紓宥咃躬瀵鎮㈤崗灏栨嫽闁诲酣娼ф竟濠偽ｉ鍓х＜闁绘劦鍓欓崝銈囩磽瀹ュ拑韬€殿喖顭烽弫鎰緞婵犲嫷鍚呴梻浣瑰缁诲倿骞夊☉銏犵缂備焦顭囬崢杈ㄧ節閻㈤潧孝闁稿﹤缍婂畷鎴﹀Ψ閳哄倻鍘搁柣蹇曞仩椤曆勬叏閸屾壕鍋撳▓鍨灍婵炲吋鐟ㄩ悘鍐⒑闁偛鑻晶顖滅磼閸屾氨效妤犵偛妫滈¨浣圭箾閹炬剚鐓奸柡灞炬礋瀹曠厧鈹戦崼婵嗘瘓缂傚倷闄嶉崝宀勨€﹂悜钘夎摕婵炴垯鍨洪崑鍕煕濞戞﹫鍔熺紒瀣喘濮婄儤瀵煎▎鎴犘滃銈冨劜閹搁箖宕氶幒鎴旀瀻闁瑰鍋涢悵浼存⒑缂佹ê濮﹂柛鎾村哺钘熼柛顐犲劜閻撴洟鏌嶇憴鍕姢濞存粎鍋撴穱濠囨倷椤忓嫧鍋撻弽顐ｆ殰闁圭儤顨呯壕鐟扳攽閻樺磭顣查柛瀣箘缁辨挻鎷呮慨鎴ｅ亹閹广垽宕卞☉娆戝帾闂佸壊鍋呯换鍐闯濞差亝鐓曢柨婵嗘閵囨繈鏌″畝瀣М妤犵偞顭囬埀顒€鐏氶幃鍫曞焵椤掍礁娴柡灞界Х椤т線鏌涢幘瀵告噮缂侇喛顕ч鍏煎緞婵犲嫸绱甸梺鍝勵槸閻楁粓鎮￠崼婵冩灁濞寸姴顑嗛悡娆撴⒒閸屾粠妫庨柛蹇撶灱閳ь剝顫夐幐鐑芥倿閿旂晫鈹嶅┑鐘叉搐鍥撮梺鍛婁緱閸犳牕鈻嶉妶澶嬧拺缂備焦蓱鐏忕増绻涢懠顒€鏋涙鐐插暙铻栭柛娑卞枟濞呮粓姊洪崨濠傚闁告柨鐭傞垾鏍醇閵夛腹鎷洪梻渚囧亞閸嬫盯鎳熼娑欐珷妞ゆ牗绮庣壕濂告偣閸ヮ亜鐨哄褎娲橀妵鍕即椤忓棛蓱缂備胶绮换鍌烇綖濠靛鏁嗛柍褜鍓欓悾鐢稿幢濞戞瑢鎷虹紓鍌欑劍钃辨い銉ユ缁绘盯宕崘顏喰滃銈冨灪閻熲晛顕ｉ幘顔碱潊闁抽敮鍋撻柟閿嬫そ濮婃椽宕ㄦ繝鍐ㄧ）闁诲繐绻戦悷鈺佺暦閵忕姭妲堥柕蹇ョ磿閸橀亶姊虹紒妯忣亞澹曢鐔告珷妞ゆ帒鍊荤壕濂告煛閸愩劌鈧悂寮稿☉姘ｅ亾濞堝灝娅橀柛鎾村哺楠炲棝寮崼婵堫啋闁诲孩绋掕摫婵犮垺鍨垮濠氬磼濞嗘帒鍘＄紓渚囧櫘閸ㄨ泛鐣峰┑瀣唨鐟滄粓鎮為懞銉х闁糕剝蓱鐏忎即鏌涙繝鍌滃煟闁哄矉缍佸顒勫垂椤旇棄鈧垶姊虹紒妯诲鞍婵炶尙鍠栧璇差吋閸℃ê顫￠梺瑙勵問閸ｎ喖危椤旂⒈娓婚柕鍫濇噺缁傚鏌涘鈧粻鏍春閳ь剚銇勯幒宥囪窗闁哥喎绻橀弻娑㈡晲鎼粹剝鐝濋悗瑙勬礃閸ㄥ墎鎹㈠┑瀣＜婵犲﹤瀚鏇熺節濞堝灝鏋熼柕鍥ㄧ洴瀹曟垿骞樺ǎ顑跨盎闂侀潧楠忕槐鏇㈠箠閸ヮ剚鐓欐い鏃傚帶閳锋柨霉閻欏懐鐣甸柟绋匡攻瀵板嫮鈧綆鍘鹃崣鎴︽⒒閸屾艾鈧悂宕愰幖浣哥９濡炲娴烽惌鍡椼€掑锝呬壕濡ょ姷鍋為悧鐘汇€侀弴銏犵厱婵﹩鍘介妵婵嬫煛娴ｇ鏆ｇ€规洘甯掕灒鐎瑰嫰顣︽竟鏇㈡⒑閸涘﹤濮﹂柛鐘崇墪椤斿繐鈹戦崶銉ょ盎闂佸搫鍟崐钘夘瀶閸涘﹦绠鹃柛娆忣槹閸婃劖鎱ㄦ繝鍐┿仢鐎规洏鍔嶇换婵嬪礃閵娧勨枈闂傚倷绀侀幉鈩冪瑹濡ゅ懎鍨傞柣锝呮湰椤洟鏌涢幇顓犮偞闁衡偓娴犲鐓熼柟閭﹀灠閻撴劗鎲搁幎濠傛噽绾惧ジ鏌涘▎蹇ｆЦ缂佲偓閸愵喗鐓忛柛銉ｅ妼婵秶鈧娲橀敃銏ゅ春閿熺姴绀冮柣鎰靛墴閺佹粍绻濆閿嬫緲閳ь儸鍛筏濞寸姴顑呴悿顔姐亜閺嶎偄浠滅痪鎯х秺閺岋綁濮€閻樺啿鏆堥梺缁樻尰濞茬喖鎮￠锕€鐐婇柕濠忛檮閸庡骸鈹戦檱鐏忔瑩鈥﹂崼銉︾畳婵犵數濮撮敃銈夋偋韫囨稒鍋╅柣鎴炆戦崣蹇撯攽閻樻彃鏆為柕鍥ㄧ箘閳ь剝顫夊ú蹇涘礉瀹ュ洦宕叉繝闈涱儏缁€鍐┿亜椤撶喎鐏︾悮鈺呮⒒閸屾艾鈧绮堟笟鈧獮澶愭晸閻樿尙顔囨繝鐢靛У绾板秹宕曟惔顫簻闁哄秲鍔嶉惃鎴︽煛閸☆厾鐣甸柡灞炬礉缁犳稓鈧綆浜栭崑鎾诲冀椤撶偟锛欓梻浣哥仢椤戝啯绂嶅鍫熺厵闁绘垶锚閻忋儵鏌嶈閸撴瑩鈥﹂悜钘夌畾濞撴埃鍋撶€规洜鍘ч埞鎴﹀礃閳哄倹婢戦梻鍌欒兌缁垶宕濆Ο闂寸剨婵炲棙鍔栧▍鐘绘煛閸ャ儱鐏柣鎾跺枛閻擃偊宕堕妸锔规嫽缂備胶濮烽崑鐔煎焵椤掍緡鍟忛柛鐘愁殜楠炲啴宕掗悙鑼暫闂侀潧绻堥崐鏇犵矆閸岀偞鐓犳繛鏉戭儐濞呭懏顨ラ悙鑼ⅵ婵﹦绮幏鍛村川婵犲啫鍓甸梻浣告憸閸犳挻绻涢埀顒傗偓瑙勬礃閸ㄥ潡鐛Ο灏栧亾闂堟稒鎲告い鏃€娲熷娲嚃閳圭偓瀚涢梺鍛婃尰閻熲晛顕ｇ粙搴撴婵﹫绲芥禍楣冩偡濞嗗繐顏紒鈧崘鈺€绻嗛柣鎰閻瑧鈧娲樺浠嬪春閳ь剚銇勯幒宥夋濞存粍绮撻弻鐔煎传閸曨厜褎淇婇幆褍妲婚棁澶嬬節婵犲倸顏柣顓熷浮閺屸€崇暆閳ь剟宕伴弽褏鏆︽い鎰剁畱缁€瀣亜閹炬剚妲堕柛搴ｆ暬瀵鈽夊鍛澑闂佺懓澧介幊鎾活敂椤撶儐娓婚柕鍫濋瀵劑鏌涙惔鈽嗙吋閽樻繈鏌熺紒銏犳灍闁绘挻绋戦湁闁挎繂鐗滃鎰版煕婵犲啫濮嶉柡灞剧洴閸╃偤骞嗚婢规洖鈹戦敍鍕杭闁稿﹥鐗滈弫顔界節閸曨剦鍋ㄩ梺璺ㄥ枔婵挳鎮块鈧悡顐﹀炊閵娧€濮囬梺缁樻尰濞茬喖寮婚敐鍛傜喖鎼归惂鍝ョ濠电姭鎷冮崨顔芥瘓闂佸搫鐬奸崰鏍€佸▎鎾崇闁绘挸绨煎ǎ顕€鏌ｆ惔銈庢綈婵炲弶鐗犻幃銉︾附缁嬫寧妲梺璺ㄥ枔婵绮堥崘顏呭枑闊洦绋掗崑鈩冪節闂堟稒宸濈紒鈾€鍋撻梻浣圭湽閸ㄨ棄顭囪缁傛帡鏁冮崒娑氬幈闂侀潧顭粻鎴﹀礉閸撲焦鍠愰柣妤€鐗忛惌濠囨煃鐟欏嫬鐏撮柛鈺佸瀹曟﹢濡歌閵堢兘姊绘担铏瑰笡妞ゃ劌鎳橀弫鍐晝閸屾氨顔夐梺闈涚箳婵厼危閸儲鐓忛煫鍥ㄦ礀瀛濋梺鍏兼緲閻忔繈鍩為幋鐐茬疇闂佺锕ラ幑鍥箖閻愮儤鏅濋柛灞炬皑椤斿棝姊绘笟鍥у缂佸鏁婚幃锟犳偄閻撳海顔愬┑鐑囩秵閸撴瑩鎮橀鈧弻锝夊箼閸愩劎浠紓浣介哺鐢繝銆佸▎鎾村仼閻忕偞鍎冲▍鎴炰繆閻愵亜鈧倝宕戦崟顓熷床闁圭儤姊归～鏇㈡煙閻戞ê娈鹃柣鏃傚劋鐎氭氨鈧懓澹婇崰鎺楀磻閹捐绠婚柛鎾茶兌閿涙繃绻涙潏鍓у埌濠㈢懓锕畷鏇㈠箛椤撴粈绨婚梺鐟邦嚟閸嬬喖骞婇崘顔芥嚉闁绘劗顣介崑鎾诲礂婢跺﹣澹曢梻浣告啞濞诧箓宕楀鈧獮蹇涙惞閸︻厾锛濇繛杈剧到婢瑰﹪宕曢幇顓滀簻闁瑰鍋熼幊鍥┾偓瑙勬礃濞叉繄绮诲☉銏犳闁告挆鍛毎濠碉紕鍋戦崐鏍礉瑜忓濠勬崉閵娧傜瑝闂佺懓澧界划顖炴偂閻斿吋鐓ユ繝闈涙閹兼劙鏌涘Ο缁樺唉闁哄瞼鍠栭、娆撳Ω閵夛附鎮欓梻浣稿船濞差參寮婚敐澶婃闁割煈鍠椾簺濠电姷顣介崜婵囩箾婵犲偆娼栫紓浣股戞刊鎾煟閻旂厧浜伴柛銈咁儑缁辨挻鎷呯粵瀣闂佺锕ら幗婊堝矗閸涘瓨鈷戦梻鍫熷崟閸儱鐤炬繝濠傜墕绾惧鏌嶉崫鍕櫤闁绘挻娲橀妵鍕箛閸撲胶蓱缂備讲鍋撻柛鎰靛枟閻撴洟鎮楅敍鍗炲暙閳峰绱撴担铏瑰笡缂佽鍟伴幑銏犫攽鐎ｎ亞锛滃┑顔斤供閸樹粙顢欏澶嬧拺閺夌偞澹嗛ˇ锕傛煟濡も偓濡繈宕洪悙鍝勭闁挎棁妫勬禍鐟邦渻閵堝棗濮︽繝鈶╁亾婵?- Medical Teal-Grey */
+  --color-accent: #A82424;        /* 婵犵數濮烽弫鍛婃叏閻戣棄鏋侀柛娑橈攻閸欏繘鏌ｉ幋锝嗩棄闁哄绶氶弻娑樷槈濮楀牊鏁鹃梺鍛婄懃缁绘﹢寮婚敐澶婄闁挎繂妫Λ鍕⒑閸濆嫷鍎庣紒鑸靛哺瀵鈽夊Ο閿嬵潔濠殿喗顨呴悧濠囧极妤ｅ啯鈷戦柛娑橈功閹冲啰绱掔紒姗堣€跨€殿喖顭烽弫鎰緞婵犲嫷鍚呴梻浣瑰缁诲倸螞椤撶倣娑㈠礋椤栨稈鎷洪梺鍛婄箓鐎氱兘宕曟惔锝囩＜闁兼悂娼ч崫铏光偓娈垮枛椤兘骞冮姀銈呯閻忓繑鐗楃€氫粙姊虹拠鏌ュ弰婵炰匠鍕彾濠电姴浼ｉ敐澶樻晩闁告挆鍜冪床闂備胶绮崝锕傚礈濞嗘挸绀夐柕鍫濇娴滄粍銇勯幘璺盒㈤柛妯侯嚟閳ь剚顔栭崰鏍€﹂悜钘夋瀬闁归偊鍘肩欢鐐测攽閻樻彃顏柡澶婃啞娣囧﹪鎮欓鍕ㄥ亾閺嶎偅鏆滃┑鐘叉处閸婂潡鏌ㄩ弴鐐测偓鍝ュ閸ф鐓欓柛鎾楀懎绗￠梺鎶芥敱閸ㄥ潡寮婚悢鍏煎殐闁宠桨妞掔划鑸电節绾版ǚ鍋撻悙钘変划闂佸搫鏈粙鎺旀崲濠靛纾兼繛鎴灻煎ǎ顕€鏌ｆ惔銏╁晱闁哥姵鐗犻垾锕傛倻閽樺鐎梺褰掑亰閸樿偐娆㈤悙娴嬫斀闁绘ɑ褰冮銏㈢磽瀹ュ懎鈧灝顫忕紒妯诲闁惧繒鎳撶粭锟犳⒑閹稿骸鍝洪柡灞剧洴閹垽鏌ㄧ€ｎ亙娣柣搴㈩問閸犳绻涙繝鍌滄殾濠靛倻顭堝敮闂佹寧妫侀～澶屸偓姘冲亹缁辨捇宕掑▎鎴М濡炪倖鍨靛Λ婵嬨€侀弽褉鏋庨柟鎯х－閿涚喖妫呴銏″闁哄矉绲剧粋宥咁煥閸喓鍘甸柣搴㈢⊕椤洨绮婚弽顓熺厱闁靛牆鎳忛崰姗€鏌＄仦鍓ф创闁糕晪绻濆畷姗€濡搁妶鍡╂綗濠德板€楁慨鐑藉磻濞戙埄鏁勫鑸靛姇閺嬩線鏌涘畝鈧崑鐐碘偓鐢靛Т椤法鎹勬笟顖浶ч梺娲诲亜缁绘ê顫忔繝姘＜婵炲棙鍩堝Σ顕€姊虹涵鍜佸殝缂佺粯绻堥獮鍐倻閽樺）銊╂煃鐎碘€冲暞閸犳ɑ銇勯姀锛勬创闁诡喗鐟╁畷鐓庘攽閸パ勭亷闂備胶纭堕弲顏嗘崲濠靛棛鏆﹂柕濞炬櫓閺佸﹪鎮峰▎蹇擃仼妞ゅ繐婀辩槐鎾诲磼濮橆兘鍋撴搴ｇ焼濞撴埃鍋撴い銏＄墵瀹曘劑顢樿閸旂兘姊虹捄銊ユ灁濠殿垼鍙冨顐ｆ媴闁稓绠氶梺闈涚墕閹冲繘宕冲ú顏呯厽闁规儳宕崝锕傛煛瀹€瀣瘈鐎规洖鐖兼俊鐑藉Ψ閵夘喚鈧亶姊婚崒娆戣窗闁告瑥閰ｅ畷褰掑箮閽樺鍔﹀銈嗗笂缁讹繝宕箛娑欑厱闁绘ê纾晶鐢告煃閵夘垳鐣遍柣锝忕節閺屽洭鏁冮埀顒€鈻撻妸鈺傗拺闁革富鍙€濡炬悂鏌涢悩鎰佹疁鐎规洘鍨垮畷鐔碱敍濞戞艾寮伴梻濠庡亜濞诧箓宕欒ぐ鎺戝惞闁告劦鍠楅悡鏇㈡煟閺冨倸鍘撮柛娆忓閺屸€崇暆鐎ｎ剛袦闂佽鍠撻崹钘夌暦椤愶箑唯鐟滃繘宕㈤幇顔剧＝闁稿本鐟чˇ锔姐亜閿旇鐏﹂柟顔哄劜缁虹晫绮欓幐搴⑿氶梻渚€鈧偛鑻晶顖炴煏閸パ冾伃妤犵偞甯掗濂稿炊閼告晫婊堟⒒娴ｈ鍋犻柛濞垮€濆畷婊堟偄閻撳氦鎽曞┑鐐村灟閸ㄥ湱绮绘繝姘€垫繛鎴炵懐閻掕姤绻涢崼娑樷偓妤冩閹惧鐟归柛銉戝嫮浜俊鐐€栭崹鐢杆囬悽鍛婂仒妞ゆ洍鍋撴鐐村浮楠炲﹪鎼归锝庢闂佺硶鏂侀崑鎾愁渻閵堝棗绗掗柛濠勭帛缁嬪顓兼径瀣弰闂婎偄娴勭徊鑺ョ濡ゅ啰纾奸悹鍥у级椤ャ垽鏌＄仦鐐鐎规洜鍘ч埞鎴﹀幢閳衡偓缁辨挻淇婇悙顏勨偓鏍蓟閵娾敡鍥偨缁嬭儻鎽曢梺缁樻煥閸氬鎮￠妷鈺傚€甸柨婵嗛娴滄牕霉閻橆喖鐏╅柍瑙勫灴椤㈡瑧娑靛畡鏉款潬缂傚倷绶￠崳顕€宕瑰畷鍥у灊妞ゆ挶鍨洪崑鍕煟閹捐櫕鎹ｉ柛濠勫仱閹嘲顭ㄩ崘顏嗕紘闂佸ジ缂氭ご鍝ョ矉閹烘柡鍋撻敐搴′簮闁圭柉娅ｇ槐鎾存媴閸撴彃鍓卞銈嗗灦閻熲晛鐣烽弴銏犵疀闁绘鐗忛崢浠嬫⒑閸愬弶鎯堥柨鏇樺€濋幃姗€鏁傜粵瀣啍闂佺粯鍔橀婊堢叕椤掑嫭鐓欐い鏂挎惈閻忣噣鏌涢悩璇ф敾婵炵厧绻樻俊鎼佹晜閻ｅ苯寤哄┑鐘垫暩婵兘寮幖浣哥；闁绘劕鎼崹鍌炴煕椤愶絾绀冮柛瀣剁節閺屻劑寮撮悙娴嬪亾瑜版帒纾婚柣鏂垮悑閳锋垿鏌涢…鎴濇珮闁稿孩鍨圭槐鎺楁偐閼姐倗鏆梺璇″枟椤ㄥ﹪骞冮挊澶嗘灁閻犳亽鍔屾慨濂告⒑濮瑰洤鐒洪柛銊ゅ嵆閹儲绺界粙鑳憰闂佹寧绻傚Λ妤冪不閻樼粯鈷戦柛娑橈攻閳锋劙鏌涢妸銉﹀仴闁?- Blood Red */
+  --color-soft: #E8E2C9;          /* 闂傚倸鍊搁崐鎼佸磹閹间礁纾归柟闂寸绾惧綊鏌熼梻瀵割槮缁炬儳缍婇弻鐔兼⒒鐎靛壊妲紒鐐劤缂嶅﹪寮婚悢鍏尖拻閻庨潧澹婂Σ顔剧磼閻愵剙鍔ょ紓宥咃躬瀵鎮㈤崗灏栨嫽闁诲酣娼ф竟濠偽ｉ鍓х＜闁诡垎鍐ｆ寖闂佺娅曢幑鍥灳閺冨牆绀冩い蹇庣娴滈箖鏌ㄥ┑鍡欏嚬缂併劌銈搁弻鐔兼儌閸濄儳袦闂佸搫鐭夌紞渚€銆佸鈧幃娆撳箹椤撶噥妫ч梻鍌欑窔濞佳兾涘▎鎴炴殰闁圭儤顨愮紞鏍ㄧ節闂堟侗鍎愰柡鍛叀閺屾稑鈽夐崡鐐差潻濡炪們鍎茬喊宥囨崲濠靛鍋ㄩ梻鍫熷垁閵夛负浜滈柨婵嗗閻瑩鏌涢埞鎯т壕婵＄偑鍊栧濠氬磻閹惧墎妫紓浣靛灩瀵喚鈧娲樺浠嬪极閹版澘骞㈤柍鍝勫亞閸熷秹姊绘担铏瑰笡闁告梹娲熼、姘额敇閻斿憡鐝峰銈嗗笒鐎氼參鎮″▎鎴斿亾閻熸澘顏褎顨婂畷铏鐎ｎ偆鍘遍梺缁橆焾椤曟粌顔忛妷鈺傛嚉闁挎繂顦痪褔鏌ｉ幇顒傛憼缂佽泛寮堕妵鍕Ψ閿曗偓閸濈儤鎱ㄦ繝鍕笡闁瑰嘲鎳忕粭鐔碱敍濠婂啫歇闂傚倷鐒﹀鍧楀礈濞嗘挸围缂佸娉曢弳锕傛煙鏉堥箖妾柛濠勫厴閺屾稑鈹戦崱妤婁紑闂佸搫鐫欓崘锝嗘杸闂佺粯顭囩划顖氣槈瑜庨妵鍕箣濠靛浂妫﹂梺璇″櫙缁绘繂顕ｉ幘顔碱潊闁炽儲鏋奸崑鎾诲醇閺囩喓鍘介梺褰掑亰閸樿偐寰婃繝姘厓闂佸灝顑嗛ˉ鍫ユ煛鐏炵晫效闁圭锕ュ鍕熼悜鈺傜€伴梻鍌欑閹碱偊鎳熼婊呯煋闁绘垿鎽妸锔剧懝闁逞屽墴瀵鈽夐姀鐘殿啋闁诲酣娼ч幉锟犲闯瑜嶉—鍐Χ鎼粹€崇濠电偛妯婇崣鍐嚕椤愶箑绠荤紓浣姑禍褰掓⒑閼规澘顥嶉柛鈺傜墵楠炲瀵肩€涙ǚ鎷绘繛鎾村焹閸嬫挻绻涙担鍐叉椤ゅ倿姊绘担鍛婃儓闁瑰啿绻橀幆鍕敍濮樿鲸娈鹃梺璺ㄥ枔婵敻骞嗛悙娣簻闁规澘澧庣壕璺ㄧ磼閻樺啿鍝烘慨濠冩そ濡啫鈽夊顒夋毇闂備胶顭堥敃銈夊箟閿涘嫮鐭夌€广儱顦伴崐閿嬨亜閹烘垵鈧顢欓弴銏＄厽閹兼番鍨婚埊鏇熴亜椤撶偞鍠橀柟顖氱焸楠炴帡寮崒婊愮床闂備胶绮敋缁剧虎鍘介弲鍫曟偨绾版ê浜炬繛鍫濈仢閺嬬喐淇婇崣澶婃诞閽樻繄鎲搁悧鍫濈瑲闁绘挻鐟х槐鎺戔槈濡槒纭€缂備讲妾ч崑鎾斥攽閻樻鏆柍褜鍓欑壕顓㈠春閿濆洠鍋撶憴鍕８闁告梹鍨块妴浣肝旀担鐟邦€撶紓浣割儐椤戞瑩鍩€椤掆偓缁绘ê顫忔繝姘＜婵﹩鍏橀崑鎾搭槹鎼淬埄鍋ㄥ┑顔斤供閸擄箓鎮為悾灞惧枑鐎广儱娲ゅ鏌ユ⒒娓氣偓濞佳囨偋閸℃娲偐鐠囪尙锛涢梺鍦亾閸撴艾顭囬埡鍌樹簻闁规壋鏅涢悘鈺冪磼娓氬洤娅嶆慨濠呮缁辨帒螣閸︻厾绠掗梻渚€娼荤紞鍥╁緤娴犲鍋╅柣鎴ｆ闁卞洭鏌￠崶銉ュ闁哄懌鍨藉娲焻閻愯尪瀚板褜鍨堕弻娑欐償椤旈棿鍠婂┑顔硷功缁垶骞忛崨瀛樺仭闂侇叏绠戝▓婵囩節閻㈤潧浠︾憸鏉垮暟缁棃鎮烽幍顔芥闂佺鎻粻鎴犵不婵犳碍鍊甸梻鍫熺⊕閹插憡銇勯弮鈧ú鐔奉潖濞差亜宸濆┑鐘辫兌缁讳線姊洪崫銉バｉ柣妤冨Т閻ｇ兘顢曢敂钘夆偓缁樹繆椤栨繍鍤欑€殿喗瀵х换婵嬫偨闂堟刀銏ゆ煕閻曚礁鐏﹀┑锟犳涧閳规垿宕煎顑垮闁荤喐鐟ョ€氼厽寰勯崟顖涚厱閻庯綆浜峰銉╂煟閿濆洤鍘撮柟顔哄灲瀹曟鍠婃潏顭戞濠电姷鏁搁崑鐐哄垂閸洘鏅俊鐐€戦崕閬嶆煀閿濆拋娼栧┑鐘宠壘绾惧吋绻涢崱妯虹瑨闁告﹫绱曠槐鎾寸瑹閸パ勭彯闂佹悶鍔岄悥鍏间繆閹绢喖绀冩い鏃傚帶閼板灝鈹戦悙鏉戠仸闁绘鍨垮畷鎴﹀箻鐠囪尙顦ㄥ銈嗘煥閵堟悂宕崼鏇熲拺闂傚牊渚楀Σ鍫曟煕鎼淬垹鈻曟い銏＄懄瀵板嫰骞囬娑欏闂傚倸鍊搁悧濠勭矙閹惧墎涓嶉柛鎰ゴ閺€鑺ャ亜閺囩偞鍣规鐐寸墵瀹曪繝鏌嗗鍡欏幈濡炪倖鍔楁慨鎾礉濠婂牊鐓熼柟鎯х－缁犲鏌ｉ幙鍐ㄤ喊鐎规洖鐖兼俊鎼佹晜缂併垺袣闂備礁鎽滈崰鎾烩€﹂崼銉⑩偓鏃堝礃椤斿槈褔鏌涢埄鍏狀亞鍠婂澶嬧拺闁革富鍘搁幏锟犳煕鐎ｎ亷韬€规洘妞介幃娆撳传閸曨収鍚呴梻浣瑰濡礁螞閸曨垰鐒垫い鎺戝€搁崢鎾煛鐏炲墽鈽夐柍璇叉唉缁犳盯鏁愰崱蹇旂亖濠电姷顣藉Σ鍛村磻閸℃稑纾婚柣鏃傚劋椤洟鏌熼幆褏鎽犲┑顖涙尦閺屟嗙疀閺囩喎娈岀紓浣诡殣缁绘繈寮婚敐澶婎潊闁宠桨鑳舵禒顓烆渻閵堝啫濡奸柣妤佹崌瀹曟椽鍩€椤掍降浜滈柟鐑樺灥椤忣亝绻涢幊宄版处閻撳繘鏌涢鐘茬労闁绘帡绠栭弻锝夋晲閸パ冨箣闂佽鍠撻崹濠氬窗婵犲啯缍囬柕濠忛檮閻濐偄鈹戦悩鍨毄闁稿鍋ゅ畷褰掑礈娴ｈ娈板┑掳鍊曢崯鐘诲磻閹炬剚娼╂い鎺嗗亾闁诡喗鍨圭槐鎺旂磼濡偐鐤勯梺璇″枙缁瑥螞閸愩劉妲堟俊銈傚亾闁硅棄顑夊铏规嫚閼碱剛顔囧┑鐐茬摠绾板秶绮嬪澶樻晜闁割偅绋堥崑鎾存媴閸撳弶鍍甸梺褰掝暒閻掞箓鍩㈠畝鍕拻濞达綀娅ｇ敮娑樸€掑顓ф疁鐎规洘濞婇弫鎰板椽娴ｅ憡顓垮┑鐐差嚟婵挳顢栭崨顔煎姅闂傚倷鐒︾€笛呮崲閸屾壕鍋撳鐓庢珝闁诡垰瀚幆鏃堝Ω閿旇瀚藉┑鐐舵彧缁插潡宕曢妶澶婂惞闁逞屽墴濮婅櫣鈧櫢闄勫妯讳繆閸ф鐓欐鐐茬仢閻忚尙鈧娲橀敃銏ゅ灳閿曞倸绠ｆ繝闈涙处閻濇艾鈹戦悩鍨毄濠电偐鍋撳┑鐐板尃閸忕姵妞介弫鎰板炊閵娿儱绨ラ梻浣虹《閸撴繄绮欓幒妤佸亗闁哄洨鍠撶粻楣冩煕閳╁喚娈曠紒鍌氼儐娣囧﹪鎳犻澶屽姼闂佸疇顫夐崹鍧椼€佸▎鎾村殐闁宠鍓ㄧ徊楣冨Φ閸曨垰惟闁挎繂鎳庢慨锕傛⒑鐠団€虫灍闁荤啿鏅涢锝夊醇閺囩偟顓洪梺缁樏悘姘跺闯椤栫偞鈷掑ù锝囶焾閳锋梻绱掗鍛仸闁诡啫鍥у嵆闁靛繒濮烽崢鎾⒑绾懏褰ч梻鍕瀹曟垿骞囬悧鍫㈠幍缂傚倷鐒﹂敋缂佹纰嶇换娑㈠醇閻旈绁烽梺瀹狀潐閸ㄥ潡骞冨▎鎾崇煑濠㈣泛锕ラ鐘崇節閻㈤潧浠滄俊顖氾躬瀹曘垺绺介棃鈺冪◤闂婎偄娲﹀ú婊呭閸忛棿绻嗘い鏍ㄧ箓娴滃綊鏌熼搹顐ょ疄婵﹥妞介弻鍛存倷閼艰泛顏繝鈷€灞芥灍闁靛洤瀚伴、姗€鎮欑€电硶鏁嶆俊鐐€ч梽鍕偂閳ユ緞娑欐媴閻熸壆绐為柣搴秵閸嬪嫬顕ｉ崹顔规斀妞ゆ梻鐡斿▓鏃€淇婇锝庢畷闁哄懓鍩栫换婵嗩潩椤撶姴骞楅梻浣告惈閸婂湱鈧瑳鍥佸顭ㄩ崼鐕佹⒖婵犮垼鍩栭崝鏍偂閵夛妇绡€闂傚牊绋掗ˉ鐐烘煙閸忕厧濮嶉柡灞剧洴瀵剙鈻庨幆褍澹夐梻渚€娼уú銈団偓姘嵆閵嗕線寮撮姀鈩冩珳闂佺硶鍓濋悷顖毼ｈぐ鎺撯拻濞达絽鎲￠幆鍫ユ煟椤撶儐妲虹紒杈╁仦缁楃喖鍩€椤掑嫭鍋樻い鏇楀亾鐎规洖鐖奸、妤佸緞鐎ｎ偅鐝濋梻鍌欒兌缁垶鏁冮埡鍛獥闁哄秲鍔庨々鐑芥煥閺囩偛鈧綊鍩涢幒鎳ㄥ綊鏁愰崪浣圭稐闂侀€炲苯鍘撮柛瀣崌濮?- Yellowed Cream */
+  --color-bg: #17191A;            /* 婵犵數濮烽弫鍛婃叏閻戣棄鏋侀柛娑橈攻閸欏繘鏌ｉ幋锝嗩棄闁哄绶氶弻娑樷槈濮楀牊鏁鹃梺鍛婄懃缁绘﹢寮婚敐澶婄闁挎繂妫Λ鍕⒑閸濆嫷鍎庣紒鑸靛哺瀵鈽夊Ο閿嬵潔濠殿喗顨呴悧濠囧极妤ｅ啯鈷戦柛娑橈功閹冲啰绱掔紒姗堣€跨€殿喖顭烽弫鎰緞婵犲嫷鍚呴梻浣瑰缁诲倸螞椤撶倣娑㈠礋椤栨稈鎷洪梺鍛婄箓鐎氱兘宕曟惔锝囩＜闁兼悂娼ч崫铏光偓娈垮枛椤兘骞冮姀銈呯閻忓繑鐗楃€氫粙姊虹拠鏌ュ弰婵炰匠鍕彾濠电姴浼ｉ敐澶樻晩闁告挆鍜冪床闂備胶绮崝锕傚礈濞嗘挸绀夐柕鍫濇缁犲墽鐥銏╂缂佲檧鍋撻柣搴㈩問閸犳牠鈥﹂悜钘夌畺闁靛繈鍨洪崑姗€鏌嶉妷銉ュ笭濠㈣娲熷鍝勑ч崶褏浠惧銈嗘⒐閻楃娀骞冮悙娣亝闁告劑鍔庨弻鍫ユ⒑閸涘﹦缂氶柛搴＄－婢规洟鎸婃竟婵嗙秺閺佹劙宕卞Δ鍐偡濠电偛鐡ㄧ划搴ㄥ磻閹捐埖宕叉繝闈涱儐閸嬨劑姊婚崼鐔峰瀬闁靛骏绱曠粻楣冩偣閸ュ洤鎳愰弳銈夋⒑鐠団€虫珯缂佺粯绻傞悾宄邦潨閳ь剟銆侀弮鍫濆窛妞ゆ挾鍠撻埀顒傚亾缁绘繈鎮介棃娴躲垽鏌ㄩ弴妯衡偓婵嬪箖瑜斿畷鍗炩枎閹寸姷鍔堕梻浣稿閸嬪棝宕伴幘鍓佷笉濡わ絽鍟悡鏇㈡煃閳轰礁褰侀柟瀵稿С閻掑﹪鏌曟繛鐐珕闁绘挸鍟伴幉绋款煥閸繄顦┑顔斤供閸庨潧鈽夐姀鐘殿槰闂侀潧臎閸曨剦鍟庡┑鐘愁問閸犳濡靛☉銏犵；闁圭偓鐣禍婊堟煏韫囧﹤澧查柍閿嬪姍閺岀喎鐣￠悧鍫濇畻濠殿喖锕ょ紞濠囩嵁閸ヮ剦鏁嗗璺侯儛濡儵姊婚崒姘偓鎼佸磹閹间礁纾归柟闂寸绾惧綊鏌熼梻瀵稿妽闁稿顑呴埞鎴︽偐閹绘帩浼€闂佹椿鍘介悷鈺呭蓟閻斿皝鏋庨梽鍥敋瑜旇棟鐎规洖娲ㄦ稉宥嗙箾閹寸們姘ｉ崼鐔虹闁糕剝锚閻忋儲顨ラ悙鎼疁婵﹦绮幏鍛村川婵犲懐顢呴梻浣侯焾缁ㄦ椽宕愬┑瀣ラ柛鎰靛枛闁卞洭鏌曟径娑氱暠濞寸姷鍘ч埞鎴︽倷閸欏鏋欐繛瀛樼矋缁诲牓骞冮垾鏂ユ闁靛繆鈧枼鍋撻崼鏇熺厽闁归偊鍓涙禒娑欑箾閸涱喗绀嬮柟铏墵瀵粙顢曢妶鍥风闯濠电偠鎻徊鑲╁垝濞嗘挸浼犳繛宸簼閸嬨劍銇勯弽銊р槈缂佹せ鏅犻弻锝堢疀閺傛寧璇為梺鍝勭焿缂嶄線骞冮埡鍛煑濠㈣泛澶囬弫宥夋⒑鐠囪尙绠扮紒缁樺灴閹兘鍩￠崨顓熺€悗骞垮劚椤︻垳绮婚懡銈囩＝闁割偁鍨瑰暩缂備胶濮靛畝绋款潖閾忓湱纾兼俊顖氭惈琚濆┑鐐茬摠缁秶鍒掗幘璇叉槬闁逞屽墯閵囧嫰骞掑鍥舵М闂佽绻愰顓㈠焵椤掑喚娼愭繛鍙夌墱缁辩偞绻濋崒婊勬濡炪倖鍔х粻鎴犵矆婢舵劖鐓犻柟顓熷笒閸旀粓鏌曢崶銊х疄闁哄瞼鍠栭、娆撳传閸曨厺绱欓梻浣筋嚃閸犳帡宕滃┑瀣畾闁哄啫鐗嗛～鍛存煃閸ㄦ稒娅呭ù婊呭亾閵囧嫰骞掗幋婵愪痪闂佹娊鏀遍崹鍦閹烘柡鍋撻敐搴″箺缁绢厼鐖奸弻锝堢疀濞戞鍠氶梺鍝勬湰缁嬫捇鍩€椤掑﹦绉甸柛鎾寸懄缁傛帟顦归柡灞界Х椤т線鏌涢幘瀵告创鐎殿噮鍋婂畷銊︾節閸愩劌浼庨梻浣告贡閾忓酣宕伴幒妤€鐒垫い鎺戯工椤╊剟鏌熼悷鏉款伃濠碘剝鎮傞弫鍐焵椤掑倸顥氭い鏍仦閳锋垹绱撴担濮戭亪鎮橀敃鍌涚叆闁哄洦顨嗗▍鍛存懚閻愮儤鐓熼柟閭﹀墻閸ょ喓绱?- Dark Background */
+  --color-text: #E8E2C9;          /* 婵犵數濮烽弫鍛婃叏閻戣棄鏋侀柛娑橈攻閸欏繘鏌ｉ幋锝嗩棄闁哄绶氶弻娑樷槈濮楀牊鏁鹃梺鍛婄懃缁绘﹢寮婚敐澶婄闁挎繂妫Λ鍕⒑閸濆嫷鍎庣紒鑸靛哺瀵鈽夊Ο閿嬵潔濠殿喗顨呴悧濠囧极妤ｅ啯鈷戦柛娑橈功閹冲啰绱掔紒姗堣€跨€殿喖顭烽弫鎰緞婵犲孩缍傞梻浣虹帛閿氭俊顖氾工铻炵€光偓閸曨兘鎷洪柡澶屽仦婢瑰棝藝閿曞倹鐓ラ柡鍥ュ妺闁垳鈧鍠栭…鐑藉垂妤ｅ啫绠涘ù锝呮啞閸婎垶姊虹涵鍛汗閻炴稏鍎甸崺鈧い鎺嗗亾缁剧虎鍙冮、娆撳箛椤斿墽锛濋梺绋挎湰閻熝囧礉瀹ュ鐓曢柡鍐ｅ亾闁绘濞€婵℃挳宕橀鐓庤€垮┑鈽嗗灠閻ㄧ兘寮ㄩ搹顐ょ瘈闁汇垽娼у瓭濠电偛鐪伴崐鏇灻洪崸妤佲拻濞达絽鎲￠崯鐐层€掑顓ф疁鐎规洏鍨介幐濠冨緞閸℃浜栭梻浣告惈鐞氼偊宕曢弻銉ョ９闁汇垹鎲￠崑鈩冪箾閸℃绠版い蹇ｄ簽缁辨帡鍩€椤掑嫬绀冩い鏃傛櫕閸樹粙姊洪悷鎵虎閻庢凹鍠氬褔鍩€椤掑嫭鍊垫繛鍫濈仢閺嬫稒銇勯鐘插幋妤犵偛鍟存慨鈧柕鍫濇噽椤ρ囨⒑閸忚偐銈撮柡鍛⊕閹便劌煤椤忓應鎷绘繛杈剧悼閹虫捇顢氬鍕闁圭粯甯炴晥閻庤娲橀崹鍧楃嵁濡偐纾兼俊顖滃帶楠炴劙姊虹拠鎻掑毐缂傚秴妫濆畷鎴﹀幢濞戞銉╂煙閻戞ɑ鈷掔痪鎯с偢瀵爼宕煎☉妯侯瀳濠电偞鎯岄崳锝夊蓟閿濆绠奸柛鎰╁妼閳峰螖閻橀潧浠﹂柟鐟版喘閻涱噣骞掑Δ鈧獮銏′繆閻愭潙鍔ゆい銉﹀哺濮婄粯鎷呴崨濠冨創濠电偞娼欑€氼喖危閹版澘鍗抽柣鏂捐濞茬鈹戦悙鍙夘棡闁圭顭烽崺娑㈠箳閹炽劌缍婇弫鎰板炊閵娿儲鐣俊鐐€栧ú妯煎垝鎼达絾顫曢柟鐑樻⒐鐎氭岸鏌熺紒妯哄潑闁稿鎹囧畷绋课旈崘銊с偊濠电姷鏁告慨鎾疮椤栫偛纾块柣鏂垮悑閻撳繐鈹戦悙鑼虎闁告梹绮撳鍫曞醇濠靛牆顣洪梺瀹狀潐閸ㄥ潡骞冨▎鎾崇煑濠㈣埖蓱閿涗線姊绘担鍛婅础妞ゎ厼鐗撻垾锕傛倻閽樺鐣洪梺璺ㄥ枔婵挳宕￠幎鑺ョ厪闊洢鍎崇壕鍧楁煕濡吋鏆柡宀嬬稻閹棃鏁愰崱妯荤槑婵＄偑鍊ら崢濂告偋閸℃稒鍋ゆい鎾卞灪閳锋帒霉閿濆懏鎲搁柡瀣暞閵囧嫰寮撮崱妤佸闁稿顑夐弻鐔煎箲閹伴潧娈梺钘夊暟閸犳牠寮婚妸銉㈡婵☆垯璀︽禒鐟扳攽閻愯尙鐒惧ù婊庝邯瀵鈽夐姀鐘殿啋濠德板€愰崑鎾绘倵濮樼厧澧寸€规洝顫夊蹇涘Ω閵堝洨鐣鹃梻渚€娼ч悧鍡椕洪妶鍛瘎闂傚倷鑳堕…鍫ヮ敄閸℃瑧鐭欓柟瀵稿Т瀵弶淇婇悙顏勨偓鏍箰妤ｅ啫纾归柨婵嗘噳濡插牓鏌曡箛鏇炐ユい锔哄姂濮婃椽妫冨☉杈╁姼闂佹悶鍔嶅浠嬫晲閻愬樊鍚嬮柛娑变簼閺傗偓闂備胶绮崝鏇烆嚕閸泙澶愭倷閻戞鍘遍梺闈涱煭缁犳垿鍩㈤弴銏＄厸閻忕偠濮ら崰妯汇亜閵忥紕鈽夋い顐ｇ箞閺佹劙宕卞Ο缁樼帆闂傚倸鍊烽懗鍓佸垝椤栨繃鎳屾俊鐐€栧褰掓偋閻樺樊鍤曢柟鍓佺摂閺佸秵绻涢幋鐑嗘畼缂佺姵宀稿娲捶椤撶姴绗￠柣銏╁灡椤ㄥ﹤鐣烽悽绋跨倞闁宠鍎虫禍楣冩偡濞嗗繐顏紒鈧崘顔界厱闁靛鍎虫禒銏ゆ煟閿濆洤鍘村┑鈩冪摃椤︻噣鏌涚€ｎ偅灏柍钘夘槸閳诲秹鎼归銏淮闂佸疇顕х粔鐟扮暦閸洦鏁嗗ù锝呭级鐎氬ジ姊婚崒姘偓鎼佹偋婵犲嫮鐭欓柟鎯у娑撳秹鏌ｉ幇顔煎妺闁绘挻娲栭埞鎴︽偐閹绘帗娈茬紓浣插亾閻庯綆鍠楅悡娆撴⒑閸噮鍎忛柣蹇旀尦閺岀喖顢欓崫鍕紙閻庤娲﹂崑濠冧繆閻ゎ垼妾ㄩ梺鍝ュ枎闁帮絽顫忕紒妯诲闁绘垶锚濞堝矂姊虹€癸附婢樻慨鍌炴煙椤旀儳鍘村┑锛勫厴閸╋繝宕掑锝呬壕闁割偅娲橀悡鍐煕濠靛棗顏柛锝呯秺閺屻倕顫㈠畝濠冪秷闂侀潧娲ょ€氭澘顕ｆ禒瀣垫晝妞ゎ偒鍘介崟鍐⒒娴ｇ懓鈻曢柡鈧柆宥呭瀭闁秆勵殔閽冪喖鏌ㄥ┑鍡╂Ч闁稿瀚槐鎺斺偓锝庡亽閸庛儲淇婇銏☆棦婵﹥妞藉畷鐑筋敇閻斿摜褰у┑鐘愁問閸ｏ綁藟閹炬緞锝夊箛閺夎法顔婇梺鍝勫暊閸嬫捇鎮楀顓炲摵闁哄瞼鍠撶槐鎺懳熼搹鍦嚃婵犵數鍋涢悧鍡涒€﹂悜钘夌畺婵°倕鍟崰鍡涙煕閺囥劌澧版い锔哄劦濮婃椽宕妷銉︾亞濠电偛顦板ú鐔风暦閿濆宸濇い鎾楀嫬鐦滈梻渚€娼ч悧鍡涘箠閹邦喚涓嶅ù鐓庣摠閻撴瑩鏌ц箛锝呬簻濠殿喖绉堕埀?- Body Text */
+  --color-text-secondary: #999999;/* 婵犵數濮烽弫鍛婃叏閻戣棄鏋侀柛娑橈攻閸欏繘鏌ｉ幋锝嗩棄闁哄绶氶弻娑樷槈濮楀牊鏁鹃梺鍛婄懃缁绘﹢寮婚敐澶婄闁挎繂妫Λ鍕⒑閸濆嫷鍎庣紒鑸靛哺瀵鈽夊Ο閿嬵潔濠殿喗顨呴悧濠囧极妤ｅ啯鈷戦柛娑橈功閹冲啰绱掔紒姗堣€跨€殿喖顭烽弫鎰緞婵犲嫷鍚呴梻浣瑰缁诲倸螞椤撶倣娑㈠礋椤栨稈鎷洪梺鍛婄箓鐎氱兘宕曟惔锝囩＜闁兼悂娼ч崫铏光偓娈垮枛椤兘骞冮姀銈呯閻忓繑鐗楃€氫粙姊虹拠鏌ュ弰婵炰匠鍕彾濠电姴浼ｉ敐澶樻晩闁告挆鍜冪床闂備浇顕栭崹搴ㄥ礃閿濆棗鐦辩紓鍌氬€风欢锟犲闯椤曗偓瀹曞綊骞庨挊澶岊唹闂侀潧绻掓慨顓炍ｉ崼銉︾厪闊洦娲栧暩濡炪倖鎸诲钘夘潖閾忓湱纾兼俊顖濇娴犳潙鈹戦埥鍡椾簼闁烩晩鍨伴悾宄扳攽鐎ｅ灚鏅┑顔斤公缁查箖寮埀顒勬⒒娴ｈ櫣甯涢柛鏃€鐗曢…鍥р枎閹炬潙鈧爼鏌ㄩ弴鐐测偓褰掓偂閺囥垺鐓冮弶鐐村椤︼箓鏌￠崱顓犳偧闁逞屽墲椤煤濮椻偓瀹曞綊宕稿Δ鍐ㄧウ濠碘槅鍨甸崑鎰閸忓吋鍙忔俊銈傚亾婵☆偅鐟╄棢闁割偆鍠撶弧鈧梺姹囧灲濞佳勭閿曞倹鐓曢柕濞垮劤閸╋綁鏌熼鎯у幋濠碉紕鍏橀崺鈩冩媴绾懐鍙戦梻鍌欑婢瑰﹪宕戦崨顖涘床鐎广儱鎳岄埀顒佸笚缁绘繂顫濋鐘插妇闂備礁澹婇崑鍛崲閸儺鏁佹俊銈傚亾闂囧绻濇繝鍌氼伀缂佺姵鐗滅槐鎺旂磼濡吋鍒涢梺鐟扮－婵炩偓妞ゃ垺顨婇崺鈧い鎺戝閸戠姵绻涢幋鐐茬劰闁稿鎸搁埢鎾诲垂椤旂晫浜俊鐐€ら崢楣冨礂濡警鍤曟い鎰剁畱缁犺崵绱撴担濮戭亝绂嶈ぐ鎺撯拺闁兼祴鏂侀幏锟犳煕閹惧鎳囬柛鈹惧亾濡炪倖甯掗崐鍛婄鏉堛劍鍙忓┑鐘叉噺椤忕娀鏌嶈閸撴瑥锕㈡潏銊﹀弿闁汇垻顭堣繚闂佸憡鍔﹂崰妤呮偂閻斿吋鐓欓柧蹇曟嚀娴犙囨煟閿濆洦鏆柡宀€鍠栭、娆撴倷椤掍焦鐦撻梻浣规偠閸旀垹绮婚弽褜鍤曟い鎺戝鍞梺鎸庢婵倕顭块幋锔解拻闁稿本鐟ㄩ崗宀€绱掗鍛仸鐎规洘绻傝灒闂傚倸顕崜銊モ攽閻愬弶顥為柛鏃€鐗曢埢宥夋偐缂佹鍘搁梺鍛婂姂閸斿矂鍩€椤掑啫鍚瑰瑙勬礋瀹曟绮潪鎵泿闂備礁鎼崯顐﹀磹閻熸壋鏋嶉柡鍥ュ灪閻撴瑩鏌涢幇顒€绾х€瑰憡绻堥弻宥堫檨闁告挻宀搁、娆撳冀椤撶偟鐛ュ┑鐐村灟閸╁嫰寮€ｎ剚鍠愰柡鍐ㄧ墕閺勩儵鏌曟径娑氱暠缂佸墎鍋ら弻鐔兼焽閿曗偓婢х粯绻涢悡搴含婵﹨娅ｇ槐鎺懳熼弴鐔风伌闁诡啫鍥х閻犲洩灏欓ˇ顕€鎮楅獮鍨姎妞わ富鍨遍、濠囨⒒娴ｅ憡鍟炴繛璇х畵瀹曞綊骞嶉鎯ф殫閻庡箍鍎遍ˇ浼存偂閺囥垺鍊堕柣鎰綑缁€鍐熆鐟欏娊顏堟箒闂佺粯顭堢粔顕€顢旈崼姘ｅ亾閺冨牆绀冩い鏂挎瑜旈獮鏍垝閸忓浜鹃柤纰卞墰閸╁秹姊婚崒娆戭槮闁圭⒈鍋婇獮濠呯疀濞戞瑥鍓銈嗙墱閸嬫盯寮伴妷鈺傜厽闁归偊鍓氶幆鍫㈢磼閻欏懐绉柡灞诲姂瀵潙螖閳ь剚绂嶆ィ鍐┾拺缂備焦蓱閹牏绱掔紒妯肩疄鐎殿喛顕ч埥澶愬閻橀潧濮堕梻浣告啞閸斞呯磽濮橆兘鏌︽い蹇撴绾捐棄霉閿濆娑у┑鈥炽偢閺屾洟宕奸姀鈺冨姼濡炪値鍋勭换鎰弲濡炪倕绻愮€氼噣顢欓崶顒佺厵闁稿繗鍋愰弳姗€鏌涢妸銉吋闁轰礁绉撮～婊堝焵椤掆偓椤繐煤椤忓嫮顔愰梺缁樺姈瑜板啴锝為崨顓涙斀闁宠棄妫楁禍婊堟倵濮橆偄宓嗛柕鍡曠椤繈鎳滈崹顐ｇ彸闂備焦鎮堕崕顖炲礉瀹€鍕仧闁哄绨遍弨浠嬫煟閹邦剛鎽犵紓宥嗗灦閵囧嫰骞嬪┑鍥舵＆闂佹寧绻勯崑娑㈩敇閸忕厧绶為悗锛卞嫬顏归梻鍌氬€搁崐鎼佹偋婵犲嫮鐭欓柟鎯у娑撳秹鏌涢幇顓犮偞闁衡偓閼恒儯浜滈柡鍐ㄦ搐娴滅懓顭胯缁犳垿鍩為幋锕€鐒洪柛鎰ㄦ櫅閳ь剚鍔欓弻娑㈠煛鐎ｎ剛鐦堥悗瑙勬礃鐢帡鈥﹂妸鈺佺闁靛ě灞芥倯闂傚倸鍊搁崐宄懊归崶顒夋晪鐟滃繘鍩€椤掍胶鈻撻柡鍛箘閸掓帒鈻庨幘宕囶唺濠碉紕鍋熼崕鐢稿磻閹剧粯鏅濋柛灞炬皑閸婄偤姊洪崘鍙夋儓闁哥啿鏅濈划顓熷緞閹邦厸鎷洪梺鍛婄箓鐎氼噣鍩㈡径鎰厱婵☆垰婀遍惌娆撴煙椤曞棛绡€鐎殿喗鎸虫慨鈧柨娑樺瀵櫕绻濋悽闈涒枅婵炰匠鍏炬稑鈻庨幘宥咁樀閹瑩鎮滃Ο鐓庡妇闂備焦鎮堕崕顖炲礉鎼达絿涓嶉柣鎰劋閻?- Secondary Text */
+  --color-card: #232729;          /* 闂傚倸鍊搁崐鎼佸磹閹间礁纾归柟闂寸绾惧綊鏌熼梻瀵割槮缁炬儳缍婇弻鐔兼⒒鐎靛壊妲紒鐐劤缂嶅﹪寮婚悢鍏尖拻閻庨潧澹婂Σ顔剧磼閻愵剙鍔ょ紓宥咃躬瀵鎮㈤崗灏栨嫽闁诲酣娼ф竟濠偽ｉ鍓х＜闁诡垎鍐ｆ寖闂佺娅曢幑鍥灳閺冨牆绀冩い蹇庣娴滈箖鏌ㄥ┑鍡欏嚬缂併劌銈搁弻鐔兼儌閸濄儳袦闂佸搫鐭夌紞渚€銆佸鈧幃娆撳箹椤撶噥妫ч梻鍌欑窔濞佳兾涘▎鎴炴殰闁圭儤顨愮紞鏍ㄧ節闂堟侗鍎愰柡鍛叀閺屾稑鈽夐崡鐐差潻濡炪們鍎查懝楣冨煘閹寸偛绠犻梺绋匡攻椤ㄥ棝骞堥妸鈺傚€婚柦妯侯槺閿涙盯姊虹紒妯哄闁稿簺鍊濆畷鎴犫偓锝庡枟閻撶喐淇婇婵嗗惞婵犫偓娴犲鐓冪憸婊堝礂濞戞碍顐芥慨姗嗗墻閸ゆ洟鏌熺紒銏犳灈妞ゎ偄鎳橀弻锝咁潨閳ь剙顭囪閻涱噣鍩€椤掑嫭鈷掗柛灞剧懅椤︼箓鏌涘顒夊剱缂佸倸绉电粋鎺斺偓锝庝簽閿涚喖姊虹憴鍕姸婵☆偄瀚伴幃锟犲灳閹颁胶鍞甸梺鍏兼倐濞佳勬叏閸儲鐓熼柟鎯у暱閺嗭綁鏌熼鑲╃Ш鐎规洖鐖兼俊姝岊槻鐎殿喓鍔戝娲川婵犲嫭鍣ч柣搴㈠嚬閸欏啴濡撮崘顔嘉ㄩ柍鍝勫€搁埀顒傚厴瀵爼宕奸悢椋庮槰闂侀€炲苯澧悗绗涘洢鈧啴濡烽埡鍌氣偓鐑芥煠绾板崬鍔柨婵嗩槹閻撴瑧鈧懓瀚晶妤呭吹閸ャ劍鍙忓┑鐘插€荤粔鐑橆殽閻愬弶鍠樻い銏☆殕瀵板嫮鈧絽鐏氶敍鍛存⒒閸屾艾鈧悂宕愰幖浣哥９濡炲娴烽惌鍡椼€掑锝呬壕濡ょ姷鍋涢ˇ鐢稿极閹剧粯鍋愰柤纰卞墻濡茬兘姊绘担鐟邦嚋婵炲弶鐗犲畷鎰板传閵壯呭箵濠德板€曢幊蹇涙偂濞戞埃鍋撻獮鍨姎濡ょ姵鎮傞悰顔嘉旈崨顔惧幗闂佽宕樼亸娆戠玻閺冨牊鐓涢悘鐐插⒔濞叉潙鈹戦敍鍕幋妞ゃ垺鐟╅幃鈩冩償椤旇姤绁伴梻鍌氬€烽懗鍓佸垝椤栫偛绠板Δ锝呭暙缁愭鏌″搴″箹闁藉啰鍠栭弻銊╂偄閸濆嫅銏㈢棯閹冩倯缂佺粯鐩獮瀣攽閸℃艾鐓橀梻浣告啞閺屻劑鎳熼鐐茬厴闁硅揪闄勯崐鐑芥煠绾板崬澧柍顏囬哺缁绘繈鎮介棃娑楁睏闂佺顑嗛幑鍥ь潖濞差亜浼犻柛鏇ㄥ墯閹烽亶姊洪悜鈺傛珦闁搞劏椴哥粚杈ㄧ節閸パ囧敹闂佸搫娲ㄩ崑鐔妓囬妸鈺傗拺闂傚牊渚楅悞楣冩煕閵婎煈娼愮紒鍌氱Ч閹瑩顢楅崒婊呮闂傚倸鍊搁悧濠勭矙閹烘鏅€广儱妫涚粻楣冩煕韫囨艾浜瑰褏鏁婚弻锛勪沪閻旈攱顥犻柣銈傚亾闂備礁鎼ú銊╁窗鎼粹檧鏋旂€光偓閸曨剛鍘介柟鑹版彧缁辨洘绂掑☉銏＄厽闁瑰灝瀚弧鈧悗娈垮枛椤兘寮幘缁樺亹闁肩⒈鍓欓埀顒傚仱濮婅櫣鈧湱濮甸妴鍐╀繆閻愭潙绗ч柛鎺撳浮瀹曞ジ寮撮悢鍙夊闂備礁鎲￠崝鏍亹閸愩剮锝囩磼濡晲绨婚梺鎸庢磻濡炴帡宕ラ锝勭箚闁告瑥顦慨宥嗩殽閻愭惌鐒介柍褜鍓氱粙鎺楁晪濡炪倕瀛╅幑鍥ь潖濞差亜宸濆┑鐘插暙闂夊秹鎮峰鍕凡闁哥喐娼欓悾宄邦煥閸喓鍔堕悗骞垮劚濡盯宕㈡禒瀣拺闂傚牊绋撶粻姘舵煛閸涱喚娲撮柟顔矫埢搴ㄥ箻鐎电甯楅柣鐔哥矋缁挸鐣峰鍐ｆ瀻闁瑰瓨绻嶅Λ婊冾渻閵堝棙灏柛銊ф嚀鏁堥柡灞诲劜閻撱儵鏌￠崶鈺佷粶闁逞屽墮缂嶅﹪骞冮垾鏂ユ闁靛骏绱曢崢閬嶆⒑闂堟侗妲堕柛銊ユ惈閳诲秹宕ㄧ€涙鍘搁柣搴秵娴滄繈骞戦敐鍥╃＜閺夊牄鍔屽ù顔锯偓瑙勬礃缁秹骞忛崨瀛樷拹闁归偊鍙庡鐔兼⒒閸屾瑧顦﹂柟纰卞亰閹绺界粙璺ㄧ崶闂佸搫绋侀崢濂告嫅閻斿吋鐓曢柕澶樺枛婢ь垶鏌￠崨顔剧疄闁哄苯绉烽¨渚€鏌涢幘璺烘灈闁诡喕鍗抽、娆戝枈鏉堛劌缂撻梻渚€鈧偛鑻晶瀵糕偓娈垮枦椤曆囧煡婢跺á鐔奉煥閸涱厽鐏堥悗瑙勬处閸嬪﹤鐣烽悢纰辨晩闁兼祴鏅涢獮瀣⒒閸屾艾鈧绮堟笟鈧幃鍧楀炊椤掑﹦绋忔繝銏ｅ煐閸旀洟宕归崒鐐寸厱鐟滃酣銆冮崨顖滀笉闁哄秲鍔庣粻楣冩煕閳╁叐鎴犱焊椤撶姷纾奸柣娆愮懃濞诧箓鎮″▎鎾村€甸柣銏☆問閻掑墽浜歌箛鎾斀闁绘垵娲ㄧ粔鐢告煕閿濆繒绉€殿喖顭烽弫鎰板幢濡搫濡抽梻渚€娼ч悧鍡欌偓娑掓櫇缁辩偤宕煎┑鍐╂杸闂佺粯鍔欓·鍌炲吹鐎ｎ剛纾奸柣妯挎珪鐏忣參鏌ｉ敐鍛Щ妞ゎ厹鍔戝畷濂告偄閾氬倻鐩庢繝鐢靛█濞佳囧磹閹间絸鍥敍濮橈絾鐏侀梺闈浤涢崨顖ょ闯濠电偠鎻徊鑺ョ珶婵犲洤纾块煫鍥ㄦ礈绾惧ジ鏌曟繛鍨姎闁肩缍婂畷锟犳焼瀹ュ棛鍘卞銈嗗姉婵挳宕濆鍫熺厽闁规儳纾粻濠氭煟閹垮啫浜扮€规洖鐖兼俊鐑藉Ψ閵夈儛鎴犵磽娴ｅ搫浜鹃柛搴″暱椤洭鏁撻悩鑼舵憰?- Card Background */
+  --color-border: #384448;        /* 闂傚倸鍊搁崐鎼佸磹閹间礁纾归柟闂寸绾惧綊鏌熼梻瀵割槮缁炬儳缍婇弻鐔兼⒒鐎靛壊妲紒鐐劤缂嶅﹪寮婚悢鍏尖拻閻庨潧澹婂Σ顔剧磼閻愵剙鍔ょ紓宥咃躬瀵鎮㈤崗灏栨嫽闁诲酣娼ф竟濠偽ｉ鍓х＜闁诡垎鍐ｆ寖闂佺娅曢幑鍥灳閺冨牆绀冩い蹇庣娴滈箖鏌ㄥ┑鍡欏嚬缂併劌銈搁弻鐔兼儌閸濄儳袦闂佸搫鐭夌紞渚€銆佸鈧幃娆撳箹椤撶噥妫ч梻鍌欑窔濞佳兾涘▎鎴炴殰闁圭儤顨愮紞鏍ㄧ節闂堟侗鍎愰柡鍛叀閺屾稑鈽夐崡鐐差潻濡炪們鍎查懝楣冨煘閹寸偛绠犻梺绋匡攻椤ㄥ棝骞堥妸鈺傚€婚柦妯侯槺閿涙盯姊虹紒妯哄闁稿簺鍊濆畷鎴犫偓锝庡枟閻撶喐淇婇婵嗗惞婵犫偓娴犲鐓冪憸婊堝礂濞戞碍顐芥慨姗嗗墻閸ゆ洟鏌熺紒銏犳灈妞ゎ偄鎳橀弻宥夊煛娴ｅ憡娈查梺缁樼箖閻楃姴顫忕紒妯肩懝闁逞屽墴閸┾偓妞ゆ帒鍊告禒婊堟煠濞茶鐏￠柡鍛埣楠炴﹢顢欓悾灞藉箥闂備焦鍎冲ù姘跺磻閸℃稒鍎楅幖娣妽閻撳繘鏌涢妷锝呭濠殿喖绉甸〃銉╂倷閺夋垶璇炲Δ鐘靛仦椤洭骞戦崟顖氫紶闁告洦鍙庨崬鍫曟⒒閸屾艾鈧嘲霉閸ヮ剦鏁嬬憸蹇涘箲閵忋倕绠虫俊銈傚亾缁炬儳顭烽弻锝呂熺紒妯镐户闂佽桨绀侀鍥箟閹间礁妫橀悹鎭掑妽濞堟儳鈹戦悩缁樻锭婵☆偒鍘奸…鍥煛閸涱喚鍘鹃梺鍛婄缚閸庢煡寮抽埡鍛厱婵☆垰婀遍惌娆愭叏婵犲洨绱伴柕鍥ㄥ姍楠炴帡骞嬪鍐╃€抽梻鍌欑閹诧繝骞愰崼鏇炵闁瑰瓨绻勯弳锔界節闂堟侗鍎愰柛瀣閺屾稖绠涘顑挎睏闂佸憡顭囬弫璇差潖濞差亜鎹舵い鎾跺Т缁楋繝鏌ｉ姀鈺佺仭妞ゃ劌锕ら悾鐑筋敍閻愭潙鈧兘鏌ｉ幋鐑嗙劷闁告﹢娼ч—鍐Χ閸℃瑥顫х紓浣割儐鐢ゆ＂闂佸壊鍋侀崕鏌ユ偂閸愵喗鐓忓鑸得悘锝夋煟閿濆懐浠涙い銊ｅ劦閹瑥顔忛鐓庡闂備浇顕栭崰妤呮偡瑜旈崺鈧い鎺嶈兌閳洘銇勯鐐寸┛闁靛洦鍔欏畷鍗炩槈濞嗗本瀚介梻浣侯焾閺堫剟鎳濇ィ鍐ㄧ劦妞ゆ帒瀚峰Λ鎴炵箾閸℃劕鐏╂い顐ｇ箞椤㈡寰勭仦钘壭ㄩ梺鑽ゅ枑缁秴螞娴ｈ倽娑㈡偄婵傚瀵岄梺闈涚墕濡鎱ㄨ缁辨帡鎮╅崘鑼紝闂佽鍠栧锟犲箖濞嗘搩鏁嗛柛灞剧矌濡插洤鈹戦悩鍨毄濠殿喗鎸冲畷鎰磼濡粯鐝峰┑鐐村灟閸ㄦ椽鎮￠弴銏″€甸柨婵嗙凹缁ㄥ鏌嶈閸撴瑥顭囬垾鎰佸殨濠电姵纰嶉弲鎻掝熆鐠虹尨鍔熼柣顐㈠濮婃椽骞栭悙鎻掑Η闂佺鏈粙鎾愁焽閺嶎厽鈷掗柛灞剧懅椤︼箓鏌熺拠褏绡€闁诡喚鍏橀弫鍐磼濮橀硸鍞归梻浣规偠閸庢椽宕滃▎鎾村珔闁绘柨鎽滅粻楣冩煙鐎涙鎳冮柣蹇婃櫊瀹曨剟顢涢悙绮规嫼闂佸湱顭堝ù椋庣不閹剧粯鐓欓柛鎰叀閸欏嫰鏌嶉妷锔惧鐎垫澘瀚悾婵嬪焵椤掑倸顥氶柦妯侯棦瑜版帗鏅查柛鈩冾殘缁侀攱绻涚€涙鐭掔紒鐘崇墪椤繐煤椤忓懐鍔甸梺缁樺姌鐏忣亞鈧碍婢橀…鑳檨闁搞劌纾Σ鎰板箳閺冨倻锛滃┑鈽嗗灣椤戞洟鍩€椤掍礁娴柡灞界Х椤т線鏌涢幘瀵告创鐎殿噮鍋婇獮鏍ㄦ媴濞村浜鹃柨鏇炲€搁柋鍥煏婢舵ê鐏ｇ紒瀣箻濮婃椽宕烽鐐插濡炪們鍔屽Λ婵嬪箖閿熺姴鍗抽柕蹇ョ磿閸橆亝绻濋姀锝呯厫缂佸鎹囧畷姘跺级鎼存挻鏂€闂佺偨鍎村▍鏇㈠磻閵夆晜鐓涢悘鐐插⒔閳藉銇勯锝囩煉闁糕斁鍋撳銈嗗笂閼冲爼銆呴弻銉︾厱妞ゆ劧绲剧粈鈧梺钘夊暟閸犳牠寮婚妸銉㈡斀闁糕剝锕╁Λ锟犳⒑缁嬫寧鎹ｉ柛鐘冲姍婵＄敻宕熼姘敤闂侀潧臎閸涱垰甯撻梻浣告惈缁嬪嫮鎹㈠┑鍡╂綎缂備焦蓱婵挳鏌涘☉姗堝伐闁哄棗鐗撳娲捶椤撗呭姼濡炪値鍘鹃崗姗€鐛崘顔藉€婚柦妯侯槺閸樺憡绻涢幘纾嬪婵炲眰鍊曢埢鎾诲Ω閳哄倵鎷洪悷婊呭鐢鏁嶉悢铏圭＜闁逞屽墯閹峰懘鎼归柅娑氱憹闂備焦瀵х换鍌炈囨导瀛樺亗闁靛鏅滈悡娑㈡煕閹扳晛濡藉璺哄閵囧嫰濡烽妷顔解枅闂?- Border */
+  --color-nav-bg: #4A646C;        /* 闂傚倸鍊搁崐鎼佸磹閹间礁纾归柟闂寸绾惧綊鏌熼梻瀵割槮缁炬儳缍婇弻鐔兼⒒鐎靛壊妲紒鐐劤缂嶅﹪寮婚悢鍏尖拻閻庨潧澹婂Σ顔剧磼閻愵剙鍔ゆ繝鈧柆宥呯劦妞ゆ帒鍊归崵鈧柣搴㈠嚬閸欏啫鐣峰畷鍥ь棜閻庯絻鍔嬪Ч妤呮⒑閸︻厼鍔嬮柛銊ョ秺瀹曟劙鎮欏顔藉瘜闂侀潧鐗嗗Λ妤冪箔閹烘挶浜滈柨鏂跨仢瀹撳棛鈧鍠楅悡锟犮€侀弮鍫濋唶闁绘棁娓归悽缁樼節閻㈤潧孝闁挎洏鍊濆畷顖炲箥椤斿彞绗夋繝鐢靛У绾板秹鎮″▎鎴斿亾鐟欏嫭绀€婵炲眰鍊栫粋鎺楁焼瀹ュ棛鍘搁柣蹇曞仩婵倝藟濠婂嫨浜滈柟鍓у仺閸嬨垻鈧娲栧畷顒冪亙婵炶揪绲块崕銈呪枔閸洘鈷掗柛灞捐壘閳ь剟顥撶划鍫熺瑹閳ь剟骞冮崸妤€鐐婄憸婊兠归弽顓熺厪濠电偟鍋撳▍鍡涙煕閵堝懎顏柡灞剧洴楠炴﹢鎳犵捄鍝勫腐濠碉紕鍋犻～澶嬬箾婵犲洦鍋傛い鎰剁畱閻愬﹪鏌曟繝蹇擃洭妞わ富鍘剧槐鎺楀箚瑜嶇紞鏍磼椤旂晫鎳囩€殿喛顕ч埥澶婎潩椤愶絽濯伴梻浣告啞閹稿棝宕熼锝囧蒋闂傚倸鍊风粈渚€骞夐敓鐘茶摕闁靛ě鍛厠闂佹眹鍨婚…鍫燁攰闂備礁鎲″ú锕傚垂婵傜鏋侀柛銉墯閻撶喖鏌熼柇锕€骞楃紓宥嗗灴閺岋紕鈧綆鍓欓埢鍫熸叏婵犲懏顏犻柟椋庡█閸ㄩ箖鎼归銈勫闂傚倷娴囧銊ッ归崶顒夋晪鐟滄棃骞冩ィ鍐╃叆閻庯綆鍓熷顔剧磽娴ｅ壊鍎忛柣蹇旂箓閻ｇ敻宕卞☉娆屾嫼缂傚倷鐒﹁摫闁绘挶鍎甸弻鐔哄枈閸楃偘鍠婇梺缁樹緱閸ｏ絽鐣锋總鍛婂亜闁告挷鑳堕悾楣冩⒒娴ｈ櫣甯涢柛鏃撻檮缁傚秴顭ㄩ崼婵堝姦濡炪倖甯婇懗鑸垫櫠閻㈢鍋撶憴鍕缂佽鍊介悘鍐╃箾鏉堝墽鎮奸柟铏尭椤曪綁宕稿Δ浣叉嫼闂侀潻瀵岄崣鈧俊鐐倐閺屾盯鎮╁畷鍥р拡缂備緡鍠栭悧濠傤嚗閸曨厸鍋撻敐搴′簻鐎殿喖鐏濋埞鎴﹀煡閸℃浠╅梺璇茬箲缁诲牓骞冮敓鐘茬疀闁绘鐗忛崢浠嬫⒑鐟欏嫬鍔ゆい鏇ㄥ幖鐓ら柟缁㈠枟閻撴盯鎮橀悙鎻掆挃婵炴彃顕埀顒侇問閸犳顭囧▎鎺斾簷濠电偠鎻徊钘夛耿鏉堫偁浜归柛娑樼摠閳锋帒霉閿濆懏鍟為柛鐔哄仦娣囧﹪顢曢敐鍛患缂備緡鍠栭…鐑界嵁濡吋瀚氶柤鑹板煐閹蹭即姊绘担鐟邦嚋缂佸鍨归埀顒佸嚬娴滄粓鍩㈡禒瀣垫晜闁割偆鍠撻崢閬嶆⒑閸︻厼浜鹃柕鍥ㄧ洴瀹曟垿骞樼紙鐘电畾闂佸湱绮敮鐐存櫠閿旇姤鍙忓┑鐘叉噺椤忕娀鏌嶈閸撴瑥锕㈡潏銊﹀弿闁汇垺娼屾径瀣窞閻庯絻鍔嬬花濠氭⒑閹稿孩顥嗘い鏇嗗洦鍊堕柨鏇炲€归悡鏇㈡煃閻熸壆浠㈤柣蹇ｄ邯閺岀喖顢涘☉娆樻婵犵鍓濋幃鍌涗繆閻ゎ垼妲鹃梺鍝勵槸閹测剝绌辨繝鍥ㄥ€锋い蹇撳閸嬫捇寮介‖顒佺洴瀹曟﹢顢欓崗鑲┾偓顒€顪冮妶鍡樼５闁稿鎸鹃埀顒侇問閸犳鎮洪弴鐘典笉婵炴垶菤濡插牊绻涢崱妤佹拱閻庢矮绮欏缁樻媴娓氼垳鍔搁梺鍝勭墱閸撶喖骞冮悿顖ｆ▌闁芥ɑ绻堥弻銊╁即閻愭祴鍋撹ぐ鎺撳亗婵炲棙鎸婚崑锝夋煕閵夈儲鎼愰柟铏姍閹線宕奸妷锕€鈧敻鎮峰▎蹇擃仾缂佲偓閸愵亞纾奸悹鍥у级椤ョ姷绱掗娆惧殭闁宠棄顦灒闂佸灝顑愬鏃€绻濈喊妯活潑闁搞劍濞婃俊瀵糕偓锝庡墯椤洟姊洪鈧粔鐢稿煕閹烘嚚褰掓晲閸パ冨闂佹悶鍊愰崑鎾斥攽閻橆偅濯伴柛娑卞枟閻濐亪姊洪崨濠傜瑲閻㈩垽绻濋妴浣糕槈閵忊€斥偓鐑芥煠绾板崬澧鐐茬墦濮婄粯鎷呴崨濠呯闂佺绨洪崐婵嗙暦瑜版帗鍋勯柣鎾虫捣閸濇绻涚€电孝妞ゆ垵妫濋幃锟犳偄闂€鎰畾濡炪倖鐗楃换鍌炲触瑜版帗鐓曟繛鍡楄嫰娴滄儳鈹戦敍鍕杭闁稿﹥娲滈埀顒佺▓閺呯娀濡撮崘顔煎窛閻庢稒顭囬悾鍐测攽閻樺灚鏆╁┑顔芥尦閺佸啴濡堕崶锝呬壕婵鍘у▍宥夋煙椤栨氨鐏遍柍褜鍓ㄧ紞鍡涘礈濞戞艾顥氶柤娴嬫櫇绾捐棄霉閿濆牜鍤冮柣鎺嶇矙閺屾洟宕卞Ο鐑樿癁闂佸搫鐬奸崰鎰八囬悧鍫熷劅闁宠鲸甯╅崜姘跺Φ閸曨垱鏅滈柤鎭掑劚閸炲姊洪崫鍕効缂傚秳绶氬顐﹀箛閺夊灝绐涘銈嗙墬閻熝勩仚閾忣偂绻嗛柣鎰典簻閳ь剚鍨垮畷婵囩節閸パ咃紵闂佹眹鍨婚…鍫㈢不閺嶃劎绠鹃柛鈩兩戠亸顓犵磼閻欐瑥娲﹂悡娆撴倵濞戞瑯鐒界紒鐘劜缁绘盯宕楅悡搴℃懙濠殿喖锕︾划顖炲箯閸涱垳椹抽悗锝庝簼閻ｄ即姊绘担鍛婃喐濠殿喚鏁婚妴鍐╃節閸パ呯暫闂佺粯鍨煎Λ鍕偂濞戙垺鐓曟繛鎴濆船娴滄劙鏌涚€ｎ偅灏伴柟宄版嚇閹虫牕鈹戦崶顭戞閻庤娲忛崝鎴︺€佸鈧幃顏堝川椤栨氨鍝庡┑鐘垫暩婵挳鎯€婢舵劕绾ч幖瀛樻尭娴滈箖鏌熼崜褏甯涢柛濠傛健閺屻劑寮撮悙娴嬪亾缁嬪晝褔寮婚妷锔惧帾闂佸壊鍋呯换鍐闯閹惰姤鐓涢柍褜鍓氱粋鎺斺偓锝庡亞閸樿棄鈹戦埥鍡楃仴婵炲拑绲剧粋鎺戔槈閵忥紕鍘搁梺绯曗偓宕囩婵炲懎锕弻锛勪沪閸撗佲偓鎺楁煃瑜滈崜銊х礊閸℃稑纾婚柛鈩冪☉閻撯€愁熆閼搁潧濮堥柟铏哺閺屻劌鈹戦崱妯烘珴闂佽　鍋撳ù鐘差儐閻撶喐淇婇婵愬殭缂佹彃顭烽弻锟犲幢濞嗗繑鐎鹃梺闈涙搐鐎氫即宕洪埄鍐╁闁告縿鍎甸悰鎾剁磽閸屾瑨鍏岀紒顕呭灣閹广垽宕煎顏呯洴瀹曟﹢濡搁姀鈽嗘綌闂備礁鎲￠〃鍫ュ磻濞戞瑧鐝跺鑸靛姈閳?*/
+  --color-footer-bg: #17191A;     /* 濠电姷鏁告慨鐑藉极閸涘﹥鍙忛柣鎴ｆ閺嬩線鏌涘☉姗堟敾闁告瑥绻橀弻锝夊箣閿濆棭妫勯梺鍝勵儎缁舵岸寮诲☉妯锋婵鐗婇弫楣冩⒑閸涘﹦鎳冪紒缁橈耿瀵鏁愭径濠勵吅濠电姴鐏氶崝鏍礊濡ゅ懏鈷戦梺顐ゅ仜閼活垱鏅堕鈧弻娑欑節閸屾稑浠撮梺闈涙缁€渚€鍩㈡惔銊ョ闁哄鍨熼崑鎾绘煥鐎ｃ劋绨婚梺鍦劋閸╁牆危閸︻厾纾界€广儱妫▓婊勬叏婵犲嫮甯涢柟宄版嚇瀹曘劍绻濋崘銊ュ濠电姷鏁搁崑娑㈡儑娴兼潙鍨傞柦妯侯槺閺嗭妇鎲搁悧鍫濈瑨闁圭鍩栭妵鍕箻鐠哄搫澹夊┑鈽嗗亝缁秶鎹㈠┑瀣仺闂傚牊鍒€閿濆洨妫柡澶庢硶鏁堥梺璇″枓閳ь剚鏋奸弸搴ㄦ煙閹咃紞濡ょ姴娲娲礈閹绘帊绨肩紓浣筋嚙閸婂潡宕哄☉銏犵睄闁割偆鍠撻崢浠嬫⒑閹稿海绠撻柣妤€鎳樺畷銉╊敃閿旂晫鍘介梺闈涱樈閸犳洟鏌囬娑辨闁绘劕寮堕ˉ鈩冦亜閿曗偓椤曨厾妲愰幒鎾崇窞閻庯綆鍋佹禒銏ゆ⒑閸濆嫬顦柍褜鍓欑壕顓㈠汲閸℃稒鐓冪憸婊堝礈閻旈鏆﹀ù鍏兼綑閸愨偓濡炪倖鎸炬慨瀵哥矈閿曞倹鈷戠痪顓炴噺瑜把呯磼閻樺啿鐏╃紒顔款嚙閳藉鈻庡鍕泿闂備浇顫夊畷妯衡枖濞戞壕鍙块梻鍌欑窔閳ь剛鍋涢懟顖涙櫠椤栫偞鐓曢柡鍐ｅ亾妞ゃ劌鐗嗗嵄闁圭増婢樼粻濠氭倵濞戞顏堫敁閹剧粯鈷戝ù鍏肩懅閸掍即鏌ゅú璇茬仸闁诡啫鍐炬僵闁煎摜顣介幏铏圭磽娴ｅ壊鍎忛悘蹇撴嚇瀵劎绱掑Ο鑲╊啎闂佽偐鈷堥崜娆撳几濞戞埃鍋撶憴鍕婵＄偘绮欓獮鍐ㄢ枎閹惧厖绱堕梺鍛婃处閸欏酣宕ラ崨瀛樷拻濞达絿鎳撻婊勪繆椤愶紕顦﹂摶鐐烘煕閺囥劌澧版い鈺勫皺閹叉悂鎮ч崼婵堢懖闂佺粯鎸鹃崰鏍嵁閺嶎偄鍨濋柣鐔告緲閳峰鏌ｉ悩鍐插闁逞屽墯閺嬪ジ寮ㄩ懞銉ｄ簻闁哄啫娲よ闁诲繐楠忕粻鎾诲箰婵犲洦鍋勯柛婵勫劤閻﹀牓姊婚崒姘卞缂佸鎸婚弲鍫曞閵忋垺锛忛梺纭咁潐閸旀牠藟婢舵劖顥嗗鑸靛姈閻撱儲绻濋棃娑欘棡妞ゃ儲绮庣槐鎺楁嚑妫版繂娈梻鍥ь槹缁绘繃绻濋崒婊冣叡闂佷紮绲块崕銈夊箞閵婏妇绡€闁告劏鏂傛禒銏ゆ倵鐟欏嫭绀冪紒顔芥崌閻涱噣骞樼拠鑼唺閻庡箍鍎卞ú锔锯偓鍨矒濮婂宕掑▎鎺戝帯濡炪値鍘奸悧蹇涘焵椤掍胶鈻撻柡鍛█楠炲啴鏁撻悩铏闂佺粯顭堢亸娆撴偩濞差亝鈷戦悹鎭掑妼閺嬫柨鈹戦鑺ュ唉鐎规洩绻濋獮搴ㄦ嚍閵壯冨妇闂傚鍋勫ú銈夘敄閸涘瓨鍊堕柍鍝勫暞閸犳劙鏌℃径濠勪虎妞ゅ浚鍘介幈銊︾節閸愨斂浠㈠Δ鐘靛仦閻楃娀骞冨▎鎾崇闁圭儤鍩堝娆撴⒒閸屾瑧顦﹂柟璇х節瀵濡歌閻捇鏌ら崫銉︽毄妞も晜鐓￠弻鐔兼⒒鐎垫瓕绐楅梺杞扮濞差參寮婚弴锛勭杸闁靛／鍜冪吹闂備礁鎲￠敃銏狀焽瑜旈垾鏃堝礃椤斿槈褔鏌涢埄鍐夸緵婵﹤鐏濋埞鎴﹀煡閸℃ぞ绨婚柣搴㈢煯閸楁娊鐛崘顭戞建闁逞屽墴閻涱喖顫滈埀顒勩€佸▎鎾村仼閻忕偠妫勭粻浼存⒒娴ｇ瓔鍤欑紒缁樺浮瀹曟垵鈽夊▎鎰彿婵炲濮撮鍛存偂閳ь剟姊洪崫鍕偍闁搞劍妞介幃鈥斥枎閹扳晙绨婚梺鍝勭Р閸斿酣鍩婇弴鐔翠簻闁靛鍎虫晶锕傛煛鐏炵澧查柟宄版嚇閹兘寮跺▎鐐稈闂佽姘﹂～澶娒鸿箛娑樼闁硅揪璐熼埀顑跨閳诲酣骞樺畷鍥╁幀闂備線娼чˇ顐﹀疾濞戞瑧顩烽柟鎵閳锋帡鏌涚仦鎹愬闁逞屽墯閹倸鐣烽幇顓фЧ閹艰揪绲块悞鍏肩箾閹炬潙鐒归柛瀣尰椤ㄣ儵鎮欑€电鈷屽銈冨灪濞茬喖寮崒鐐村癄濠㈣泛锕らˉ妤佺節閻㈤潧袨闁搞劎鍘ч埢鏂库槈閵忕姴鐝樺銈嗗坊閸嬫捇鏌ｉ敐鍥у幋鐎规洩绲惧鍕暆閳ь剟鎯侀崼銉︹拻闁稿本姘ㄦ晶娑氱磼鐎ｎ偄娴挊鐔兼煟濡偐甯涢柣鎾寸洴閺屾盯鍩ラ崱妤€绠婚梺浼欑悼閺佸寮婚敍鍕勃闁告挆鍕灡婵＄偑鍊戦崹鍝劽洪悢鐓庢瀬闁圭増婢橀獮銏＄箾閸℃〞鎴ｂ叿闂傚倸鍊搁崐椋庣矆娓氣偓楠炴牠顢曢敃鈧粻鐘荤叓閸ャ劎鈯曢柛瀣€块弻銊╂偄閸濆嫅銏ゆ煢閸愵亜鏋戠紒缁樼洴楠炲鎮欓悽闈涘綆婵犵數鍋涢惌鍫熺椤忓牆钃熸繛鎴欏灩缁犵粯淇婇妶鍌氫壕闂佺懓鍟垮锕傚Φ閹邦厽鍎熼柍閿亾闁衡偓娴犲鐓熸慨妤€妫楅弸娑㈡煟韫囨岸鍝洪柕鍥у椤㈡洟濮€閳哄倐锕傛煟閹惧崬鈧繈寮婚敐澶婃婵炲棛鍋撻悿鍥р攽閻愭彃鎮戦柣妤佹礉閻忓啴姊洪幐搴㈢；缂佽翰鍊栭〃銉ㄧ疀閹句胶鎳撻…銊╁礃椤忓柊銊╂⒑閸濆嫮鐏遍柛鐘崇墵楠炲啫顭ㄩ崗鍓у枛閹虫牠鍩￠崘鈺傜槖婵犵數濮烽弫鎼佸磻濞戙垺鍋嬮柛鏇ㄥ灠绾惧潡姊婚崼鐔剁繁婵炲吋鐗犻弻褑绠涢幘纾嬬缂佺偓鍎抽崥瀣┍婵犲浂鏁嶆繛鎴炵懀娴犮垽姊洪幖鐐测偓鏇㈩敄閸モ晜顫曢柟鎯х摠婵挳鏌涘┑鍡楃彅闁挎繂顦伴悡娆撴⒑椤愶絿銆掓い锔肩畵閹?*/
+  --font-main: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  --max-width: 1200px;
+  --nav-height: 70px;
+}
+
+/* ---------- Reset & Base ---------- */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.7;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-accent);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-soft);
+  line-height: 1.3;
+  margin-bottom: 0.8em;
+}
+
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.7rem; }
+h3 { font-size: 1.35rem; }
+h4 { font-size: 1.15rem; }
+
+p {
+  margin-bottom: 1em;
+  color: var(--color-text);
+}
+
+/* ---------- Utility Classes ---------- */
+.container {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.text-accent { color: var(--color-accent); }
+.text-secondary { color: var(--color-text-secondary); }
+.text-center { text-align: center; }
+
+/* ---------- Ad Placeholder ----------
+   Hidden by default. To activate AdSense:
+   1. Remove "display: none" below
+   2. Insert your <ins class="adsbygoogle"> code inside the div
+   ----------------------------------------------- */
+.ad-placeholder {
+  display: none;
+}
+
+/* ============================================
+   NAVIGATION BAR
+   ============================================ */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--nav-height);
+  background-color: var(--color-nav-bg);
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+}
+
+.navbar .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+/* Logo */
+.navbar-logo {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.navbar-logo:hover {
+  color: var(--color-soft);
+}
+
+.navbar-logo-main {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--color-soft);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  -webkit-text-stroke: 0.5px var(--color-accent);
+  paint-order: stroke fill;
+  text-shadow: 0 0 8px rgba(168, 36, 36, 0.3);
+  line-height: 1.2;
+}
+
+.navbar-logo-sub {
+  font-size: 0.7rem;
+  color: var(--color-text-secondary);
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+/* Nav Links */
+.navbar-menu {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.navbar-menu a {
+  color: var(--color-soft);
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  white-space: nowrap;
+}
+
+.navbar-menu a:hover,
+.navbar-menu a.active {
+  background-color: var(--color-accent);
+  color: #fff;
+}
+
+/* Hamburger Button */
+.navbar-toggle {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+  padding: 8px;
+  background: none;
+  border: none;
+}
+
+.navbar-toggle span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background-color: var(--color-soft);
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.navbar-toggle.active span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.navbar-toggle.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.navbar-toggle.active span:nth-child(3) {
+  transform: rotate(-45deg) translate(5px, -5px);
+}
+
+/* ============================================
+   MAIN CONTENT AREA
+   ============================================ */
+.main-content {
+  flex: 1;
+  padding: 30px 0;
+}
+
+/* ---------- Page Header / Hero ---------- */
+.page-header {
+  text-align: center;
+  padding: 160px 20px 120px;
+  margin-bottom: 40px;
+  border-bottom: none;
+}
+
+/* Character guides hero with background image */
+.page-header-characters {
+  background: linear-gradient(rgba(23, 25, 26, 0.6), rgba(23, 25, 26, 0.88)), url("images/images%20(1).jpg") center/cover no-repeat;
+  padding-top: 180px;
+  padding-bottom: 140px;
+  position: relative;
+  margin-top: calc(-1 * var(--nav-height));
+}
+
+/* Boss guides hero with background image */
+.page-header-bosses {
+  background: linear-gradient(rgba(23, 25, 26, 0.6), rgba(23, 25, 26, 0.88)), url("images/images%20(2).jpg") center/cover no-repeat;
+  padding-top: 180px;
+  padding-bottom: 140px;
+  position: relative;
+  margin-top: calc(-1 * var(--nav-height));
+}
+
+/* Mission walkthroughs hero with background image */
+.page-header-missions {
+  background: linear-gradient(rgba(23, 25, 26, 0.6), rgba(23, 25, 26, 0.88)), url("images/images.jpg") center/cover no-repeat;
+  padding-top: 180px;
+  padding-bottom: 140px;
+  position: relative;
+  margin-top: calc(-1 * var(--nav-height));
+}
+
+/* Equipment guides hero with background image */
+.page-header-equipment {
+  background: linear-gradient(rgba(23, 25, 26, 0.6), rgba(23, 25, 26, 0.88)), url("images/noFilter.webp") center/cover no-repeat;
+  padding-top: 180px;
+  padding-bottom: 140px;
+  position: relative;
+  margin-top: calc(-1 * var(--nav-height));
+}
+
+/* All articles hero with background image */
+.page-header-articles {
+  background: linear-gradient(rgba(23, 25, 26, 0.6), rgba(23, 25, 26, 0.88)), url("images/featured-image-1063.webp") center/cover no-repeat;
+  padding-top: 180px;
+  padding-bottom: 140px;
+  position: relative;
+  margin-top: calc(-1 * var(--nav-height));
+}
+
+/* Homepage hero with background image */
+
+/* Article detail pages template - new articles use this class */
+.page-header-article {
+  background: linear-gradient(rgba(23, 25, 26, 0.6), rgba(23, 25, 26, 0.88)), url("images/images%20(4).jpg") center/cover no-repeat;
+  padding-top: 180px;
+  padding-bottom: 140px;
+  position: relative;
+  margin-top: calc(-1 * var(--nav-height));
+}
+
+.page-header-hero {
+  background: linear-gradient(rgba(23, 25, 26, 0.6), rgba(23, 25, 26, 0.88)), url("images/animal-hospital-header-2.webp") center/cover no-repeat;
+  padding-top: 180px;
+  padding-bottom: 140px;
+  position: relative;
+  margin-top: calc(-1 * var(--nav-height));
+}
+
+.page-header h1 {
+  font-size: 2.4rem;
+  margin-bottom: 12px;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+}
+
+.page-header .subtitle {
+  color: #d5d0b8;
+  font-size: 1.05rem;
+  max-width: 700px;
+  margin: 0 auto;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* ---------- Section ---------- */
+.section {
+  margin-bottom: 50px;
+}
+
+.section-title {
+  font-size: 1.6rem;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--color-accent);
+  display: inline-block;
+}
+
+/* ---------- Card Grid ---------- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 24px;
+}
+
+.card {
+  background-color: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 24px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 4px 20px rgba(168, 36, 36, 0.15);
+}
+
+.card-tag {
+  display: inline-block;
+  background-color: var(--color-accent);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+
+.card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+}
+
+.card h3 a {
+  color: var(--color-soft);
+  text-decoration: none;
+}
+
+.card h3 a:hover {
+  color: var(--color-accent);
+}
+
+.card p {
+  color: var(--color-text-secondary);
+  font-size: 0.92rem;
+  margin-bottom: 12px;
+}
+
+.card-meta {
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+}
+
+/* ---------- Hero Grid (Homepage) ---------- */
+.hero-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 24px;
+  margin-bottom: 40px;
+}
+
+.hero-card {
+  background: linear-gradient(145deg, var(--color-card), #1a1d1f);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 30px 24px;
+  text-align: center;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.hero-card:hover {
+  border-color: var(--color-accent);
+  transform: translateY(-2px);
+}
+
+.hero-card-icon {
+  font-size: 2.5rem;
+  margin-bottom: 12px;
+  display: block;
+}
+
+.hero-card h3 {
+  font-size: 1.15rem;
+  margin-bottom: 8px;
+}
+
+.hero-card h3 a {
+  color: var(--color-soft);
+}
+
+.hero-card h3 a:hover {
+  color: var(--color-accent);
+}
+
+.hero-card p {
+  font-size: 0.88rem;
+  color: var(--color-text-secondary);
+}
+
+/* ---------- Article List ---------- */
+.article-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.article-item {
+  background-color: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 20px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: border-color 0.2s ease;
+}
+
+.article-item:hover {
+  border-color: var(--color-accent);
+}
+
+.article-item-content {
+  flex: 1;
+}
+
+.article-item h3 {
+  font-size: 1.1rem;
+  margin-bottom: 4px;
+}
+
+.article-item h3 a {
+  color: var(--color-soft);
+}
+
+.article-item h3 a:hover {
+  color: var(--color-accent);
+}
+
+.article-item p {
+  font-size: 0.88rem;
+  color: var(--color-text-secondary);
+  margin-bottom: 0;
+}
+
+.article-item-tag {
+  display: inline-block;
+  background-color: var(--color-primary);
+  color: var(--color-soft);
+  font-size: 0.72rem;
+  padding: 3px 10px;
+  border-radius: 3px;
+  margin-right: 12px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* ---------- FAQ Section ---------- */
+.faq-section {
+  margin-top: 50px;
+  padding-top: 30px;
+  border-top: 1px solid var(--color-border);
+}
+
+.faq-item {
+  background-color: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+
+.faq-question {
+  width: 100%;
+  padding: 16px 20px;
+  background: none;
+  border: none;
+  color: var(--color-soft);
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--font-main);
+}
+
+.faq-question:hover {
+  color: var(--color-accent);
+}
+
+.faq-question::after {
+  content: '+';
+  font-size: 1.3rem;
+  color: var(--color-accent);
+  transition: transform 0.2s ease;
+}
+
+.faq-item.active .faq-question::after {
+  transform: rotate(45deg);
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.faq-answer-inner {
+  padding: 0 20px 16px;
+  color: var(--color-text-secondary);
+  font-size: 0.93rem;
+  line-height: 1.7;
+}
+
+.faq-item.active .faq-answer {
+  max-height: 500px;
+}
+
+/* ---------- Breadcrumb ---------- */
+.breadcrumb {
+  padding: 10px 0;
+  margin-bottom: 10px;
+  font-size: 0.85rem;
+}
+
+.breadcrumb a {
+  color: var(--color-text-secondary);
+}
+
+.breadcrumb span {
+  color: var(--color-text-secondary);
+  margin: 0 6px;
+}
+
+.breadcrumb .current {
+  color: var(--color-soft);
+}
+
+/* ---------- Article Content ---------- */
+.article-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.article-content h2 {
+  margin-top: 2em;
+  padding-top: 0.5em;
+  border-top: 1px solid var(--color-border);
+}
+
+.article-content ul,
+.article-content ol {
+  margin-bottom: 1em;
+  padding-left: 1.5em;
+}
+
+.article-content ul {
+  list-style: disc;
+}
+
+.article-content ol {
+  list-style: decimal;
+}
+
+.article-content li {
+  margin-bottom: 0.5em;
+  color: var(--color-text);
+}
+
+.article-content strong {
+  color: var(--color-soft);
+}
+
+.article-content blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding: 12px 20px;
+  margin: 1.5em 0;
+  background-color: var(--color-card);
+  border-radius: 0 4px 4px 0;
+  color: var(--color-text-secondary);
+  font-style: italic;
+}
+
+/* ---------- Guide Article (All Articles Page) ---------- */
+.guide-article {
+  background-color: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  margin-bottom: 40px;
+  overflow: hidden;
+}
+
+.guide-article-header {
+  padding: 28px 30px 20px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.guide-article-tag {
+  display: inline-block;
+  background-color: var(--color-accent);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 3px 12px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 12px;
+}
+
+.guide-article-title {
+  font-size: 1.6rem;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+
+.guide-article-meta {
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+}
+
+.guide-article-sep {
+  margin: 0 8px;
+}
+
+.guide-article-body {
+  padding: 24px 30px 30px;
+  line-height: 1.8;
+}
+
+.guide-article-body h3 {
+  margin-top: 2em;
+  padding-top: 0.5em;
+  border-top: 1px solid var(--color-border);
+  font-size: 1.25rem;
+}
+
+.guide-article-body h3:first-child {
+  margin-top: 0;
+  border-top: none;
+  padding-top: 0;
+}
+
+.guide-article-body p {
+  margin-bottom: 1em;
+}
+
+.guide-article-body ul,
+.guide-article-body ol {
+  margin-bottom: 1em;
+  padding-left: 1.5em;
+}
+
+.guide-article-body ul {
+  list-style: disc;
+}
+
+.guide-article-body ol {
+  list-style: decimal;
+}
+
+.guide-article-body li {
+  margin-bottom: 0.6em;
+}
+
+.guide-article-body strong {
+  color: var(--color-soft);
+}
+
+.guide-article-body blockquote {
+  border-left: 3px solid var(--color-accent);
+  padding: 14px 22px;
+  margin: 1.8em 0;
+  background-color: var(--color-bg);
+  border-radius: 0 4px 4px 0;
+  color: var(--color-text-secondary);
+  font-style: italic;
+}
+
+.guide-article-body em {
+  color: var(--color-text-secondary);
+}
+
+/* ---------- Share Buttons ---------- */
+.share-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 30px;
+  border-top: 1px solid var(--color-border);
+  background-color: var(--color-bg);
+  flex-wrap: wrap;
+}
+
+.share-bar-label {
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+  margin-right: 4px;
+  white-space: nowrap;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: #fff;
+  transition: opacity 0.2s ease;
+  border: none;
+  cursor: pointer;
+  font-family: var(--font-main);
+}
+
+.share-btn:hover {
+  opacity: 0.85;
+  color: #fff;
+}
+
+.share-btn svg {
+  width: 14px;
+  height: 14px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.share-btn-x { background-color: #000; }
+.share-btn-facebook { background-color: #1877F2; }
+.share-btn-reddit { background-color: #FF4500; }
+.share-btn-copy { background-color: var(--color-primary); }
+
+.share-btn-copied {
+  background-color: #2e7d32 !important;
+}
+
+@media (max-width: 600px) {
+  .share-bar {
+    padding: 14px 18px;
+  }
+
+  .share-btn {
+    padding: 6px 10px;
+    font-size: 0.75rem;
+  }
+
+  .share-btn svg {
+    width: 12px;
+    height: 12px;
+  }
+}
+
+/* ---------- Inner Links Box ---------- */
+.inner-links {
+  background-color: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 20px 24px;
+  margin: 30px 0;
+}
+
+.inner-links h4 {
+  margin-bottom: 12px;
+  font-size: 1rem;
+}
+
+.inner-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.inner-links li {
+  margin-bottom: 6px;
+}
+
+.inner-links a {
+  color: var(--color-primary);
+  font-size: 0.92rem;
+}
+
+.inner-links a:hover {
+  color: var(--color-accent);
+}
+
+/* ---------- Privacy / About / Contact Pages ---------- */
+.static-page {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.static-page h2 {
+  margin-top: 2em;
+}
+
+.static-page ul {
+  list-style: disc;
+  padding-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+.static-page li {
+  margin-bottom: 0.5em;
+}
+
+.contact-email {
+  display: inline-block;
+  background-color: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 16px 24px;
+  margin: 20px 0;
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  word-break: break-all;
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+.site-footer {
+  background-color: var(--color-footer-bg);
+  border-top: 1px solid var(--color-border);
+  padding: 30px 0;
+  text-align: center;
+}
+
+.footer-copyright {
+  color: var(--color-text-secondary);
+  font-size: 0.85rem;
+  margin-bottom: 12px;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.footer-links a {
+  color: var(--color-text-secondary);
+  font-size: 0.88rem;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: var(--color-accent);
+}
+
+/* ---------- Back to Top Button ---------- */
+.back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 44px;
+  height: 44px;
+  background-color: var(--color-accent);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, background-color 0.2s ease;
+  z-index: 999;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+}
+
+.back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.back-to-top:hover {
+  background-color: #c02828;
+}
+
+@media (max-width: 600px) {
+  .back-to-top {
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    font-size: 1rem;
+  }
+}
+
+/* ============================================
+   RESPONSIVE DESIGN
+   ============================================ */
+
+/* Tablet */
+@media (max-width: 992px) {
+  .navbar-toggle {
+    display: flex;
+  }
+
+  .navbar-menu {
+    position: fixed;
+    top: var(--nav-height);
+    left: 0;
+    right: 0;
+    background-color: var(--color-nav-bg);
+    flex-direction: column;
+    padding: 10px 20px 20px;
+    gap: 2px;
+    transform: translateY(-100%);
+    opacity: 0;
+    pointer-events: none;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  }
+
+  .navbar-menu.active {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .navbar-menu a {
+    width: 100%;
+    padding: 12px 16px;
+    font-size: 0.95rem;
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-grid {
+    grid-template-columns: 1fr;
+  }
+
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.4rem; }
+
+  .page-header h1 {
+    font-size: 1.9rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  :root {
+    --nav-height: 60px;
+  }
+
+  .navbar-logo-main {
+    font-size: 0.78rem;
+  }
+
+  .navbar-logo-sub {
+    font-size: 0.6rem;
+  }
+
+  .container {
+    padding: 0 15px;
+  }
+
+  h1 { font-size: 1.5rem; }
+  h2 { font-size: 1.25rem; }
+
+  .page-header {
+    padding: 80px 15px 60px;
+  }
+
+  .page-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .card {
+    padding: 18px;
+  }
+
+  .article-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .guide-article-header {
+    padding: 20px 18px 16px;
+  }
+
+  .guide-article-title {
+    font-size: 1.3rem;
+  }
+
+  .guide-article-body {
+    padding: 18px;
+  }
+
+  .guide-article-body h3 {
+    font-size: 1.1rem;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
