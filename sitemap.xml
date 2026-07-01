@@ -296,4 +296,55 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
+  <!-- Emergency Detail Pages -->
+  <url>
+    <loc>https://animalhospitalanomalyguides.com/event-ambulance.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://animalhospitalanomalyguides.com/event-patient-fire.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://animalhospitalanomalyguides.com/event-death-ritual.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://animalhospitalanomalyguides.com/event-critical-patient.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://animalhospitalanomalyguides.com/event-surgery-monster.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://animalhospitalanomalyguides.com/event-monster-eating.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://animalhospitalanomalyguides.com/event-fire-in-room.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://animalhospitalanomalyguides.com/event-patient-fainted.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
