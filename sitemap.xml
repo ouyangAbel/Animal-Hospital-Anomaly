@@ -43,37 +43,38 @@
 
   <!-- Articles -->
   <url>
-    <loc>https://animalhospitalanomalyguides.com/article-class-guide.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/articles/article-class-guide.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://animalhospitalanomalyguides.com/article-boss-fight-guide.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/articles/article-boss-fight-guide.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/article-sanity-recovery-tips.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/articles/article-sanity-recovery-tips.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/article-how-to-survive.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/articles/article-how-to-survive.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/article-sanity-management.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/articles/article-sanity-management.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/article-treatment-workflow.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/articles/article-treatment-workflow.html</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -101,203 +102,203 @@
 
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-three-eyes.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-three-eyes.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-hollow-face.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-hollow-face.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-wide-eyes-smile.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-wide-eyes-smile.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-mismatched-eyes-sharp-teeth.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-mismatched-eyes-sharp-teeth.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-human-teeth.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-human-teeth.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-twitching.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-twitching.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-censored-eyes.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-censored-eyes.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-skinwalker.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-skinwalker.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-void-body.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-void-body.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-unnatural-body.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-unnatural-body.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-staring-at-cameras.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-staring-at-cameras.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-cursed-photo.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-cursed-photo.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-different-ears.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-different-ears.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-different-eyes.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-different-eyes.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-incorrect-photo.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-incorrect-photo.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-static-photo.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-static-photo.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-unnatural-photo.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-unnatural-photo.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-missing-appointment.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-missing-appointment.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-mimic-patient.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-mimic-patient.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-bed-monster.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-bed-monster.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-skinwalker-enemy.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-skinwalker-enemy.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-mass-of-eyes.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-mass-of-eyes.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-ghost.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-ghost.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-head-banger.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-head-banger.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-hiders.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-hiders.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-stalker.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-stalker.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-surgery-monster.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-surgery-monster.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-camera-figure.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-camera-figure.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://animalhospitalanomalyguides.com/anomaly-slime.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/anomalies/anomaly-slime.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -305,49 +306,49 @@
 
   <!-- Emergency Detail Pages -->
   <url>
-    <loc>https://animalhospitalanomalyguides.com/event-ambulance.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/events/event-ambulance.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/event-patient-fire.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/events/event-patient-fire.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/event-death-ritual.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/events/event-death-ritual.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/event-critical-patient.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/events/event-critical-patient.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/event-surgery-monster.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/events/event-surgery-monster.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/event-monster-eating.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/events/event-monster-eating.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/event-fire-in-room.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/events/event-fire-in-room.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://animalhospitalanomalyguides.com/event-patient-fainted.html</loc>
+    <loc>https://animalhospitalanomalyguides.com/events/event-patient-fainted.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

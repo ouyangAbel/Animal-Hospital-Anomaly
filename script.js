@@ -89,4 +89,60 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
+  /* ---------- Latest Guides: Fetch from all-articles.html ---------- */
+  (function loadLatestGuides() {
+    var container = document.getElementById('latest-guides-container');
+    if (!container) return;
+
+    // Show loading state
+    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);">Loading latest guides...</p>';
+
+    fetch('all-articles.html')
+      .then(function (res) {
+        if (!res.ok) throw new Error('Failed to load');
+        return res.text();
+      })
+      .then(function (html) {
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, 'text/html');
+        var items = doc.querySelectorAll('.article-list .article-item');
+        var cards = '';
+
+        // Take first 3 articles
+        var limit = Math.min(6, items.length);
+        for (var i = 0; i < limit; i++) {
+          var item = items[i];
+          var tag = item.querySelector('.article-item-tag');
+          var link = item.querySelector('.article-item-content a');
+          var h3 = item.querySelector('.article-item-content h3');
+          var p = item.querySelector('.article-item-content p');
+          var time = item.querySelector('time');
+
+          var tagText = tag ? tag.textContent.trim() : '';
+          var linkHref = link ? link.getAttribute('href') : '#';
+          var title = h3 ? h3.textContent.trim() : '';
+          var desc = p ? p.textContent.trim() : '';
+          var datetime = time ? time.getAttribute('datetime') : '';
+          var dateText = time ? time.textContent.trim() : '';
+
+          cards += '<article class="card">' +
+            '<span class="card-tag">' + tagText + '</span>' +
+            '<h3><a href="' + linkHref + '">' + title + '</a></h3>' +
+            '<p>' + desc + '</p>' +
+            '<span class="card-meta"><time datetime="' + datetime + '">' + dateText + '</time></span>' +
+            '</article>';
+        }
+
+        if (cards) {
+          container.innerHTML = cards;
+        } else {
+          container.innerHTML = '<p style="text-align:center;color:var(--color-muted);">No guides found. Check back soon.</p>';
+        }
+      })
+      .catch(function () {
+        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);">Unable to load latest guides. Please visit <a href="all-articles.html">All Articles</a>.</p>';
+      });
+  })();
+
+
 });
