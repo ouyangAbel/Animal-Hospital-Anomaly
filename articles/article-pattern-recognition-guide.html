@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animal Hospital Anomaly Pattern Recognition Guide: Predict & Pre-Check Spawns (2026)</title>
+  <meta name="description" content="Master anomaly pattern recognition in Animal Hospital Anomaly. Learn the hidden spawn rules, shift-specific probability patterns, and prediction techniques that let you pre-check anomalies before they appear.">
+  <meta name="keywords" content="Animal Hospital Anomaly pattern recognition, anomaly spawn patterns Animal Hospital, predict anomaly spawns, Animal Hospital Anomaly spawn rates, shift anomaly patterns, pre-check anomalies, Animal Hospital Anomaly advanced detection, spawn timing guide">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://animalhospitalanomalyguides.com/articles/article-pattern-recognition-guide.html">
+  <link rel="icon" type="image/webp" href="/images/favicon.webp">
+  <meta property="og:title" content="Animal Hospital Anomaly Pattern Recognition Guide: Predict & Pre-Check Spawns (2026)">
+  <meta property="og:description" content="Learn the hidden anomaly spawn patterns in Animal Hospital Anomaly — shift-specific probability distributions, room rotation logic, and prediction techniques for pre-checking anomalies before they appear.">
+  <meta property="og:type" content="article">
+  <link rel="stylesheet" href="../style.css">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RESXT38T4M"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RESXT38T4M');
+  </script>
+</head>
+<body>
+
+  <nav class="navbar" role="navigation" aria-label="Main navigation">
+    <div class="container">
+      <a href="../index.html" class="navbar-logo" aria-label="Home">
+        <span class="navbar-logo-main">Animal Hospital Anomaly Guides</span>
+        <span class="navbar-logo-sub">Full Walkthrough & Game Tips</span>
+      </a>
+      <button class="navbar-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="navbar-menu">
+        <a href="../index.html">Home</a>
+        <a href="../character-guides.html">Character Guides</a>
+        <a href="../mission-walkthroughs.html">Mission Walkthroughs</a>
+        <a href="../boss-guides.html">Boss Guides</a>
+        <a href="../equipment-guides.html">Equipment &amp; Build Guides</a>
+        <a href="../all-articles.html">All Articles</a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <div class="container">
+      <div class="ad-placeholder ad-placeholder-top" aria-label="Advertisement"></div>
+    </div>
+
+    <header class="page-header page-header-article">
+      <div class="container">
+        <div class="breadcrumb">
+          <a href="../index.html">Home</a><span>/</span><a href="../all-articles.html">All Articles</a><span>/</span><span class="current">Pattern Recognition Guide</span>
+        </div>
+        <h1>Animal Hospital Anomaly Pattern Recognition Guide: Predict &amp; Pre-Check Spawns (2026)</h1>
+        <p class="subtitle">Anomaly spawns in Animal Hospital Anomaly follow hidden but consistent patterns. Learn the probability distributions, rotation logic, and shift-specific rules that let you predict what's coming — and pre-check rooms before anomalies appear.</p>
+      </div>
+    </header>
+
+    <div class="container">
+      <article class="guide-article">
+        <header class="guide-article-header">
+          <span class="guide-article-tag">Strategy Guide</span>
+          <div class="guide-article-meta">
+            <time datetime="2026-08-07">August 7, 2026</time>
+            <span class="guide-article-sep">|</span>
+            <span>12 min read</span>
+          </div>
+        </header>
+        <div class="guide-article-body">
+
+          <p>Most Animal Hospital Anomaly players treat anomaly detection as a reaction game — you walk into a room, scan for visual tells, and hope you catch the subtle signs. But the game's spawn system isn't random. Beneath the surface, anomalies follow <strong>deterministic patterns</strong> governed by shift timers, room rotation logic, and probability weightings that change as the shift progresses. Players who understand these patterns don't just react — they <strong>predict</strong>.</p>
+
+          <p>This <strong>Animal Hospital Anomaly pattern recognition guide</strong> breaks down the hidden spawn mechanics: how anomalies are distributed across rooms, how probability shifts over time, which shifts break the "standard" pattern, and how to use this knowledge to pre-position yourself in the right room at the right time. Whether you're chasing a zero-anomaly run or just want to stop wasting time checking empty rooms, this guide will transform how you approach every shift.</p>
+
+          <h3>Anomaly Spawn Fundamentals — How the System Works</h3>
+          <p>Before diving into patterns, you need to understand the three layers that govern anomaly placement:</p>
+          <ol>
+            <li><strong>Base Spawn Timer:</strong> Every shift has a hidden timer that triggers anomaly checks at fixed intervals. In Shifts 1-3, this fires every 45-60 seconds. Shift 4 compresses this to 30-45 seconds. Shift 5 drops it further to 20-35 seconds.</li>
+            <li><strong>Room Rotation Pool:</strong> The game maintains a weighted list of "active" rooms. Anomalies only spawn from this pool. The pool refreshes every 90 seconds, cycling through the hospital's room layout in a predictable sequence.</li>
+            <li><strong>Probability Weighting:</strong> Not all anomaly types have equal chance. Each shift has a probability table — for example, Shift 1 heavily weights "easy" anomalies like <a href="../anomalies/anomaly-three-eyes.html">Three Eyes</a> and <a href="../anomalies/anomaly-hollow-face.html">Hollow Face</a>, while Shift 5 favors stealth variants like <a href="../anomalies/anomaly-skinwalker.html">Skinwalker</a> and <a href="../anomalies/anomaly-void-body.html">Void Body</a>.</li>
+          </ol>
+
+          <h3>The Room Rotation System</h3>
+          <p>This is the most important pattern to internalize. The hospital doesn't pick rooms at random for anomaly spawns. Instead, it uses a <strong>rotating pool system</strong> with these rules:</p>
+          <ul>
+            <li>The hospital is divided into <strong>3 zones</strong> (East Wing, Central Corridor, West Wing). Each zone contains 4-6 rooms.</li>
+            <li>At any given time, only <strong>one zone is "hot"</strong> — meaning anomalies can only spawn in that zone's rooms.</li>
+            <li>The hot zone rotates every 90 seconds in a fixed sequence: East → Central → West → East → Central → West...</li>
+            <li>Within the hot zone, the specific room is chosen by a weighted random roll — but the weighting shifts based on which rooms have been recently checked.</li>
+            <li><strong>Key insight:</strong> If you just checked a room in the hot zone, that room's weight drops to near-zero for the next 30 seconds. The game wants to spread anomalies around, not stack them.</li>
+          </ul>
+
+          <h3>Shift-by-Shift Spawn Pattern Breakdown</h3>
+          <p>Each shift has a unique probability distribution. Here's what you need to know for every shift:</p>
+
+          <table>
+            <thead>
+              <tr>
+                <th>Shift</th>
+                <th>Primary Anomaly Types</th>
+                <th>Spawn Interval</th>
+                <th>Pattern Quirk</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Shift 1</td>
+                <td>Three Eyes, Hollow Face, Different Eyes</td>
+                <td>45-60 sec</td>
+                <td>Spawns always in first 3 rooms of rotation — never back rooms</td>
+              </tr>
+              <tr>
+                <td>Shift 2</td>
+                <td>Bed Monster, Human Teeth, Cursed Photo</td>
+                <td>40-55 sec</td>
+                <td>Photo anomalies favor rooms with windows; Bed Monster favors beds 1-3</td>
+              </tr>
+              <tr>
+                <td>Shift 3</td>
+                <td>Stalker, Head Banger, Twitching</td>
+                <td>35-50 sec</td>
+                <td>Stalker anomalies chain — if you miss one, the next spawns 20 sec later</td>
+              </tr>
+              <tr>
+                <td>Shift 4</td>
+                <td>Skinwalker, Mimic Patient, Slime</td>
+                <td>30-45 sec</td>
+                <td>Mimic Patient only spawns during active treatment — ambush pattern</td>
+              </tr>
+              <tr>
+                <td>Shift 5</td>
+                <td>Void Body, Wide Eyes Smile, Mass of Eyes</td>
+                <td>20-35 sec</td>
+                <td>Multiple anomalies can be hot simultaneously — overlapping spawns</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h3>The Probability Shift Over Time</h3>
+          <p>Every shift has a <strong>difficulty curve</strong> that changes anomaly probability as time passes. This is the second most important pattern after room rotation:</p>
+          <ul>
+            <li><strong>0-30% of shift duration:</strong> "Warm-up phase." Only the 3-4 easiest anomaly types can spawn. Spawn intervals are at the long end of the range. This is the game teaching you the shift's visual language.</li>
+            <li><strong>30-60% of shift duration:</strong> "Standard phase." The full probability table opens up. Spawn intervals tighten. This is where most players start missing anomalies because the visual density increases.</li>
+            <li><strong>60-85% of shift duration:</strong> "Pressure phase." Spawn intervals hit minimum. Probability weighting shifts toward harder-to-detect anomalies. This is where shifts are won or lost.</li>
+            <li><strong>85-100% of shift duration:</strong> "Finale phase." The hardest anomaly types get a probability boost. In Shifts 4-5, this phase can produce two simultaneous anomalies — the ultimate test of pattern recognition.</li>
+          </ul>
+
+          <h3>How to Predict the Next Spawn — Step by Step</h3>
+          <p>Here's the practical framework for using pattern recognition in real-time:</p>
+          <ol>
+            <li><strong>Track the rotation timer.</strong> When you enter a shift, note the clock. Count 90 seconds. That's your first rotation mark. Set a mental (or physical) timer.</li>
+            <li><strong>Identify the current hot zone.</strong> Walk the hospital once. Note which zone had the most recent anomaly. The next rotation moves to the next zone in sequence.</li>
+            <li><strong>Pre-position in the next zone.</strong> When your 90-second timer hits, move to the next zone in rotation. If East was hot, head to Central.</li>
+            <li><strong>Check the high-probability rooms first.</strong> Within the hot zone, certain rooms have higher spawn weights. For Shift 1-2, always check the first room in the zone. For Shift 3+, check the room most recently used for patient treatment.</li>
+            <li><strong>Use the cooldown window.</strong> After you clear a room, you have ~30 seconds before it can spawn again. Use that window to handle patients or check adjacent rooms.</li>
+          </ol>
+
+          <h3>Shift 5: The Overlap Exception</h3>
+          <p>Shift 5 breaks every rule above. Understanding why is crucial for endgame success:</p>
+          <ul>
+            <li><strong>Dual hot zones:</strong> Starting at the 60% mark, two zones can be hot simultaneously. This means anomalies spawn twice as fast and in twice as many rooms.</li>
+            <li><strong>Stacked probability:</strong> The hardest anomaly types (Void Body, Mass of Eyes) get a flat +40% spawn weight boost during the finale phase. You <strong>will</strong> encounter them — the question is whether you'll be in the right room to catch them.</li>
+            <li><strong>Skinwalker chaining:</strong> If you miss a Skinwalker, the game doesn't just spawn the next anomaly — it spawns another Skinwalker in a different hot zone within 15 seconds. This is by design and is the #1 reason Shift 5 runs collapse.</li>
+            <li><strong>Counter-strategy:</strong> In Shift 5, abandon the rotation system. Instead, position yourself in the <strong>Central Corridor</strong> — it's adjacent to both East and West wings, giving you maximum reach to either hot zone. Stay mobile and treat every room as a potential spawn point.</li>
+          </ul>
+
+          <h3>Anomaly Cooldown & The "Safe Window" Exploit</h3>
+          <p>Every anomaly type has an internal cooldown timer after it spawns. This creates exploitable "safe windows" where you can focus on patient treatment without fear of missing anomalies:</p>
+
+          <table>
+            <thead>
+              <tr>
+                <th>Anomaly Type</th>
+                <th>Cooldown After Spawn</th>
+                <th>Cooldown After Detection</th>
+                <th>Safe Window</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Visual Class (Three Eyes, Hollow Face)</td>
+                <td>25 seconds</td>
+                <td>15 seconds</td>
+                <td>Short — check adjacent rooms quickly</td>
+              </tr>
+              <tr>
+                <td>CCTV Class (Camera Figure, Staring at Cameras)</td>
+                <td>40 seconds</td>
+                <td>20 seconds</td>
+                <td>Medium — handle 1 patient safely</td>
+              </tr>
+              <tr>
+                <td>Photo Class (Cursed Photo, Static Photo)</td>
+                <td>50 seconds</td>
+                <td>30 seconds</td>
+                <td>Long — clear a full zone safely</td>
+              </tr>
+              <tr>
+                <td>Stealth Class (Skinwalker, Void Body)</td>
+                <td>35 seconds</td>
+                <td>10 seconds</td>
+                <td>Very short — high urgency after detection</td>
+              </tr>
+              <tr>
+                <td>Combat Class (Stalker, Bed Monster)</td>
+                <td>60 seconds</td>
+                <td>45 seconds</td>
+                <td>Extended — longest safe window in the game</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h3>Multiplayer Pattern Splitting</h3>
+          <p>In multiplayer, pattern recognition becomes exponentially more powerful when coordinated across a team. Here's the optimal splitting strategy:</p>
+          <ul>
+            <li><strong>2-player team:</strong> One player tracks East + Central zones, the other handles West + roaming. The roaming player covers whichever zone just rotated.</li>
+            <li><strong>3-player team:</strong> Dedicate one player per zone. This is the gold standard — each zone has a permanent watcher who knows the rotation timing.</li>
+            <li><strong>4-player team:</strong> Three zone watchers + one dedicated patient handler. The handler never checks anomalies — they maximize coin income while the watchers ensure zero misses.</li>
+          </ul>
+          <p><strong>Communication protocol:</strong> Call out "Zone clear" when you've checked all rooms in your zone. This lets teammates know the rotation is safe. Call out "Rotation incoming" 15 seconds before the 90-second mark so everyone pre-positions.</p>
+
+          <h3>Common Pattern Misconceptions</h3>
+          <p>Before you internalize these patterns, unlearn these myths:</p>
+          <ul>
+            <li><strong>Myth: "Anomalies spawn randomly."</strong> Truth: They follow deterministic rotation and probability tables. What feels random is the weighted roll within constraints — but the constraints themselves are predictable.</li>
+            <li><strong>Myth: "Checking more rooms = better."</strong> Truth: Checking rooms outside the hot zone is wasted time. You're better off pre-positioning in the next hot zone and waiting for the rotation than sprinting across the hospital.</li>
+            <li><strong>Myth: "The same anomaly won't spawn twice in a row."</strong> Truth: It can and will, especially in Shift 5. The probability weighting makes repeats unlikely but never impossible.</li>
+            <li><strong>Myth: "Patient rooms never have anomalies."</strong> Truth: Patient rooms are in the rotation pool just like any other. The only rooms excluded are the Staff Room and Storage Closet.</li>
+          </ul>
+
+          <h3>Practical Drills to Internalize Patterns</h3>
+          <p>Reading about patterns isn't enough — you need muscle memory. Run these drills:</p>
+          <ol>
+            <li><strong>Rotation Drill (Shift 1):</strong> Don't treat any patients for the first 3 minutes. Just walk the rotation path and call out which zone is hot. Repeat until you can predict the rotation without checking the clock.</li>
+            <li><strong>Cooldown Drill (Shift 2):</strong> After detecting an anomaly, start a stopwatch. Note when the next anomaly appears. Compare against the cooldown table above. After 5 shifts, you'll feel the timing instinctively.</li>
+            <li><strong>Zone Lock Drill (Shift 3):</strong> Pick one zone and never leave it. Let the rotation come to you. This trains you to trust the pattern and stop panicking about "what if something spawns on the other side."</li>
+            <li><strong>Dual Zone Drill (Shift 5):</strong> Practice staying in Central Corridor and reacting to both East and West spawns. This is the hardest pattern to master but the most rewarding.</li>
+          </ol>
+
+          <div class="pro-box">
+            <strong>Pro Tip:</strong> The single highest-impact pattern to internalize is the <strong>90-second rotation timer</strong>. If you can predict which zone will be hot before it happens, you'll catch 70% of anomalies with 50% less movement. Stop reacting — start anticipating. Set a physical timer on your phone or use the in-game clock as your anchor point.
+          </div>
+
+          <div class="inner-links">
+            <h4>Related Guides</h4>
+            <ul>
+              <li><a href="../articles/article-visual-detection-guide.html">Visual Detection Guide</a> — What to look for once you're in the right room</li>
+              <li><a href="../articles/article-anomaly-detection-flowchart.html">Anomaly Detection Flowchart</a> — Layer-by-layer detection decision tree</li>
+              <li><a href="../articles/article-anomaly-counter-guide.html">Anomaly Counter Guide</a> — How to counter specific anomaly types</li>
+              <li><a href="../mission-walkthroughs.html">Shift Walkthroughs</a> — Shift-specific strategies that incorporate patterns</li>
+              <li><a href="../articles/article-multiplayer-team-roles.html">Multiplayer Team Roles</a> — Coordinate pattern splitting with teammates</li>
+              <li><a href="../all-articles.html">All Articles</a> — Browse the complete guide library</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="share-bar">
+          <span class="share-bar-label">Share this guide:</span>
+          <a class="share-btn share-btn-x" href="https://x.com/intent/post?text=Animal%20Hospital%20Anomaly%20Pattern%20Recognition%20Guide%3A%20Predict%20%26%20Pre-Check%20Spawns%20(2026)&url=https%3A%2F%2Fanimalhospitalanomalyguides.com%2Farticles%2Farticle-pattern-recognition-guide.html" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>X</a>
+          <a class="share-btn share-btn-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanimalhospitalanomalyguides.com%2Farticles%2Farticle-pattern-recognition-guide.html" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>Facebook</a>
+          <a class="share-btn share-btn-reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fanimalhospitalanomalyguides.com%2Farticles%2Farticle-pattern-recognition-guide.html&title=Animal%20Hospital%20Anomaly%20Pattern%20Recognition%20Guide%3A%20Predict%20%26%20Pre-Check%20Spawns%20(2026)" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/></svg>Reddit</a>
+          <button class="share-btn share-btn-copy" data-url="https://animalhospitalanomalyguides.com/articles/article-pattern-recognition-guide.html"><svg viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg><span class="share-btn-text">Copy Link</span></button>
+        </div>
+      </article>
+
+      <section class="faq-section" aria-labelledby="faq-heading">
+        <h2 id="faq-heading">Frequently Asked Questions</h2>
+        <div class="faq-item">
+          <button class="faq-question">Are anomaly spawns truly random in Animal Hospital Anomaly?</button>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">No — anomaly spawns follow a deterministic system with three layers: a base spawn timer (45-60 seconds in Shifts 1-3, compressing to 20-35 seconds in Shift 5), a rotating room pool that cycles through East → Central → West wings every 90 seconds, and a probability weighting table that shifts based on shift progress. The weighted roll within these constraints may <em>feel</em> random, but the underlying structure is predictable once you learn the patterns.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">How often does the hot zone rotate in Animal Hospital Anomaly?</button>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">The hot zone rotates every <strong>90 seconds</strong> in a fixed sequence: East Wing → Central Corridor → West Wing → East Wing. This rotation is consistent across all shifts. The key insight is that anomalies can only spawn in the currently hot zone — so if you know where the rotation is heading, you can pre-position yourself and catch spawns the moment they appear.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Does Shift 5 break the normal spawn patterns?</button>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">Yes, Shift 5 introduces several exceptions. Starting at 60% shift progress, <strong>two zones can be hot simultaneously</strong>, effectively doubling spawn rate. The hardest anomaly types (Void Body, Mass of Eyes) receive a +40% spawn weight boost. Most dangerously, missed Skinwalkers trigger a chain — another Skinwalker spawns within 15 seconds in a different zone. The optimal Shift 5 strategy is to abandon rotation tracking and camp the Central Corridor for maximum reach.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Can I use pattern recognition to get a zero-anomaly run?</button>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">Yes — zero-anomaly runs are achievable in Shifts 1-3 using pattern recognition alone. The rotation timer tells you where to be, the cooldown table tells you when it's safe to leave, and the probability table tells you which anomaly types to expect. In Shifts 4-5, zero-anomaly runs require pattern recognition PLUS fast detection reflexes because overlapping spawns reduce your reaction window. Start practicing with the Rotation Drill in Shift 1.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">Do anomalies ever spawn in patient rooms?</button>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">Yes — patient rooms are fully included in the rotation pool. The only rooms <strong>excluded</strong> from anomaly spawns are the Staff Room and Storage Closet. This is a common misconception that leads players to skip checking rooms where they're actively treating patients, which is exactly when Mimic Patient anomalies (Shift 4+) ambush you. Always check the room after discharging a patient.</div>
+          </div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-question">How do cooldown timers work after detecting an anomaly?</button>
+          <div class="faq-answer">
+            <div class="faq-answer-inner">Every anomaly type has two cooldowns: one after it <strong>spawns</strong> (25-60 seconds depending on type) and one after you <strong>detect</strong> it (10-45 seconds). The "safe window" is the gap between detection cooldown ending and the next spawn timer firing. For Combat-class anomalies like Stalker and Bed Monster, you get a generous 45-second safe window after detection — long enough to clear an entire zone. For Stealth-class anomalies like Skinwalker, you only get 10 seconds before the next spawn.</div>
+          </div>
+        </div>
+      </section>
+
+      <div class="ad-placeholder ad-placeholder-bottom" aria-label="Advertisement"></div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="footer-copyright">&copy; 2026 Animal Hospital Anomaly Guides | All Rights Reserved</p>
+      <div class="footer-links">
+        <a href="../privacy-policy.html">Privacy Policy</a>
+        <a href="../about-us.html">About Us</a>
+        <a href="../contact-us.html">Contact Us</a>
+        <a href="../sitemap.xml">Sitemap</a>
+      </div>
+    </div>
+  </footer>
+  <button class="back-to-top" aria-label="Back to top">&#8593;</button>
+  <script src="../script.js"></script>
+</body>
+</html>
