@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animal Hospital Anomaly Behavior Guide: How Anomalies Move, Hunt & Attack (2026)</title>
+  <meta name="description" content="Master anomaly behavior in Animal Hospital Anomaly — movement patterns, player detection, aggression triggers, attack timing, and AI differences across all 28 anomalies. Predict and survive.">
+  <meta name="keywords" content="Animal Hospital Anomaly behavior guide, Animal Hospital Anomaly anomaly AI, Animal Hospital Anomaly movement patterns, Animal Hospital Anomaly detection, Animal Hospital Anomaly aggression, how anomalies hunt, Animal Hospital Anomaly anomaly patterns, Animal Hospital Anomaly AI guide, anomaly behavior explained, Animal Hospital Anomaly threat analysis">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://animalhospitalanomalyguides.com/articles/article-anomaly-behavior-guide.html">
+  <link rel="icon" type="image/webp" href="/images/favicon.webp">
+  <meta property="og:title" content="Animal Hospital Anomaly Behavior Guide: How Anomalies Move, Hunt & Attack (2026)">
+  <meta property="og:description" content="Master anomaly behavior in Animal Hospital Anomaly — movement patterns, player detection, aggression triggers, attack timing, and AI differences across all 28 anomalies.">
+  <meta property="og:type" content="article">
+  <link rel="stylesheet" href="../style.css">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RESXT38T4M"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-RESXT38T4M');
+  </script>
+</head>
+<body>
+
+  <nav class="navbar" role="navigation" aria-label="Main navigation">
+    <div class="container">
+      <a href="../index.html" class="navbar-logo" aria-label="Home">
+        <span class="navbar-logo-main">Animal Hospital Anomaly Guides</span>
+        <span class="navbar-logo-sub">Full Walkthrough & Game Tips</span>
+      </a>
+      <button class="navbar-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="navbar-menu">
+        <a href="../index.html">Home</a>
+        <a href="../character-guides.html">Character Guides</a>
+        <a href="../mission-walkthroughs.html">Mission Walkthroughs</a>
+        <a href="../boss-guides.html">Boss Guides</a>
+        <a href="../equipment-guides.html">Equipment &amp; Build Guides</a>
+        <a href="../all-articles.html">All Articles</a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <div class="container">
+      <div class="ad-placeholder ad-placeholder-top" aria-label="Advertisement"></div>
+    </div>
+
+    <header class="page-header page-header-article">
+      <div class="container">
+        <div class="breadcrumb">
+          <a href="../index.html">Home</a><span>/</span><a href="../all-articles.html">All Articles</a><span>/</span><span class="current">Anomaly Behavior Guide</span>
+        </div>
+        <h1>Animal Hospital Anomaly Behavior Guide: How Anomalies Move, Hunt &amp; Attack (2026)</h1>
+        <p class="subtitle">The complete breakdown of anomaly AI — detection ranges, movement patterns, aggression triggers, attack timing, and behavioral differences across all anomaly types. Learn to predict what happens next.</p>
+      </div>
+    </header>
+
+    <div class="container">
+      <article class="guide-article">
+        <header class="guide-article-header">
+          <span class="guide-article-tag">Strategy Guide</span>
+          <div class="guide-article-meta">
+            <time datetime="2026-08-09">August 9, 2026</time>
+            <span class="guide-article-sep">|</span>
+            <span>14 min read</span>
+          </div>
+        </header>
+        <div class="guide-article-body">
+
+          <p>Most <a href="../character-guides.html">Animal Hospital Anomaly</a> guides tell you WHAT each anomaly does — Three Eyes checks cameras, Skinwalker mimics patients, Bed Monster spawns in unoccupied rooms. But very few explain HOW they actually behave. The underlying AI that drives every anomaly follows consistent rules, and once you understand those rules, you stop reacting to anomalies and start predicting them.</p>
+
+          <p>This <strong>Animal Hospital Anomaly behavior guide</break> covers the engine beneath the horror. We break down detection systems, movement algorithms, aggression escalation, attack timing windows, and the behavioral differences that separate anomaly categories. Whether you're a beginner learning to read the hospital or a veteran optimizing your evasion routes, this guide gives you the framework to understand why anomalies do what they do — and how to exploit it.</p>
+
+          <table>
+            <thead>
+              <tr>
+                <th>Behavior Layer</th>
+                <th>What It Controls</th>
+                <th>Player Counter</th>
+                <th>Difficulty Scaling</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Detection System</td>
+                <td>How anomalies sense players (sight, sound, proximity)</td>
+                <td>Stay out of sight lines, crouch walk, close doors</td>
+                <td>Range increases each shift</td>
+              </tr>
+              <tr>
+                <td>Movement Pattern</td>
+                <td>Pathing, speed, room-to-room routing</td>
+                <td>Predict next room, cut off chases, use alternate routes</td>
+                <td>Speed + route complexity increases</td>
+              </tr>
+              <tr>
+                <td>Aggression State</td>
+                <td>Passive → Suspicious → Hostile escalation</td>
+                <td>Break eye contact, leave room before escalation</td>
+                <td>Escalation speed increases</td>
+              </tr>
+              <tr>
+                <td>Attack Timing</td>
+                <td>Wind-up, strike, recovery frames</td>
+                <td>Dodge during wind-up, punish recovery window</td>
+                <td>Wind-up decreases, recovery shrinks</td>
+              </tr>
+              <tr>
+                <td>Roaming Logic</td>
+                <td>Room preference, idle behavior, patrol routes</td>
+                <td>Avoid high-traffic anomaly rooms, memorize patrol timing</td>
+                <td>More simultaneous roamers at higher shifts</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h2>The Anomaly Behavior Engine: Five Layers</h2>
+
+          <p>Every anomaly in the hospital runs on the same five-layer behavior engine. Understanding each layer — and how they interact — is the key to reading situations before they turn lethal.</p>
+
+          <h3>Layer 1: Detection System</h3>
+
+          <p>Before an anomaly can hunt you, it has to detect you. The game uses three detection methods, and different anomalies rely on different combinations:</p>
+
+          <p><strong>Visual Detection:</strong> Most anomalies use line-of-sight. If you're in their field of view — a 120° cone in front of them — they register your presence. The detection range varies by anomaly type: visual-class anomalies like <a href="../anomalies/anomaly-three-eyes.html">Three Eyes</a> have the longest range (up to 12 meters on Shift 5), while physical anomalies like <a href="../anomalies/anomaly-bed-monster.html">Bed Monster</a> detect only within 4 meters.</p>
+
+          <p><strong>Audio Detection:</strong> Every anomaly can hear. Running generates the loudest sound and alerts anomalies within two rooms. Walking is audible in the adjacent room. Crouch-walking is nearly silent — only detectable if the anomaly is in the next room with a closed door. Item usage (flashlight toggle, door opening, treatment actions) generates medium-range audio that draws nearby anomalies.</p>
+
+          <p><strong>Proximity Detection:</strong> A few anomalies — notably Skinwalker and Hollow Face — have a passive proximity sense. They know when a player is within 3 meters regardless of sight or sound. This is why these anomalies feel "unfair" to new players: they seemingly react to nothing. In reality, you entered their proximity bubble.</p>
+
+          <div class="pro-box">
+            <p><strong>Pro Tip:</strong> On Shift 3+, never run through a room without checking corners first. Visual detection range scales +2 meters per shift, meaning anomalies on Shift 5 can spot you from across the main hallway. Crouch-walking reduces your visual profile and eliminates audio beyond the immediate room.</p>
+          </div>
+
+          <h3>Layer 2: Movement Patterns</h3>
+
+          <p>Anomalies don't teleport randomly — they follow movement algorithms with distinct patterns. Learning these patterns lets you predict WHERE an anomaly will be, not just where it is.</p>
+
+          <p><strong>Patroller:</strong> Follows a fixed route through 3-5 rooms, looping endlessly. Examples: Hollow Face, Three Eyes (CCTV phase). Patrollers are the most predictable — memorize their route and you can slip past during gaps.</p>
+
+          <p><strong>Roamer:</strong> Moves semi-randomly between rooms in a "home zone" (2-4 connected rooms). Examples: Skinwalker, Bed Monster, Painting anomaly. Roamers are harder to predict but rarely leave their home zone. If a roamer enters your room, it will usually leave within 15-30 seconds.</p>
+
+          <p><strong>Hunter:</strong> Actively pursues the nearest detected player. Examples: Scissor Hands, Long Arm, most Shift 4-5 anomalies. Hunters break from patrol routes the moment they detect you and pursue until they lose sight+sound for 10+ seconds.</p>
+
+          <p><strong>Stationary:</strong> Never moves from their spawn room unless provoked. Examples: Painting, Mirror anomaly, certain event-spawned anomalies. Stationary anomalies are defensive threats — avoid their trigger condition and they're harmless.</p>
+
+          <h3>Layer 3: Aggression State Machine</h3>
+
+          <p>Every anomaly cycles through four aggression states. Understanding this escalation is the difference between a clean escape and a failed run:</p>
+
+          <p><strong>State 1 — Passive:</strong> The anomaly is unaware of you. It follows its movement pattern with no reaction to your presence. You can share a room with a passive anomaly indefinitely if you stay out of its detection cone.</p>
+
+          <p><strong>State 2 — Suspicious:</strong> The anomaly detected something — a sound, a brief glimpse, proximity ping. It stops moving and "investigates" for 3-5 seconds, turning toward the detection source. This is your window to leave the room or break line of sight. If detection continues during this state, escalation accelerates.</p>
+
+          <p><strong>State 3 — Hostile:</strong> The anomaly has confirmed your presence. It enters pursuit — moving toward your last known location at increased speed. Hostile anomalies announce themselves with audio cues (unique sounds per anomaly type). During this state, the anomaly is committed to the chase and won't return to passive for at least 10 seconds after losing you.</p>
+
+          <p><strong>State 4 — Attacking:</strong> The anomaly is within strike range and initiates an attack. Each anomaly has a wind-up animation (0.5-1.5 seconds depending on type), the attack itself, and a recovery period (1-3 seconds) where it's vulnerable to counters or escape. Learning each anomaly's wind-up tells you exactly when to dodge.</p>
+
+          <table>
+            <thead>
+              <tr>
+                <th>Anomaly Type</th>
+                <th>Detection Method</th>
+                <th>Movement Pattern</th>
+                <th>Escalation Speed</th>
+                <th>Attack Wind-up</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Visual Class (Three Eyes, Hollow Face)</td>
+                <td>Sight + Proximity</td>
+                <td>Patroller / Roamer</td>
+                <td>Slow (5-8 seconds)</td>
+                <td>1.5 seconds</td>
+              </tr>
+              <tr>
+                <td>Physical Class (Scissor Hands, Long Arm)</td>
+                <td>Sight + Sound</td>
+                <td>Hunter / Roamer</td>
+                <td>Fast (2-4 seconds)</td>
+                <td>0.8 seconds</td>
+              </tr>
+              <tr>
+                <td>Ambient Class (Painting, Mirror)</td>
+                <td>Proximity only</td>
+                <td>Stationary</td>
+                <td>Instant in range</td>
+                <td>0.5 seconds</td>
+              </tr>
+              <tr>
+                <td>Special Class (Skinwalker)</td>
+                <td>Sight + Sound + Proximity</td>
+                <td>Hunter / Mimic</td>
+                <td>Very Fast (1-3 seconds)</td>
+                <td>0.6 seconds</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <h3>Layer 4: Attack Timing Windows</h3>
+
+          <p>Every anomaly attack has three phases, and each phase gives you information and opportunity:</p>
+
+          <p><strong>Wind-up Phase:</strong> The anomaly telegraphs its attack — Scissor Hands raises its blades, Long Arm extends its reach, Bed Monster lunges forward. The wind-up duration is fixed per anomaly and does NOT scale with difficulty. A 1.5-second wind-up on Shift 1 is still 1.5 seconds on Shift 5. This is your dodge window. Learn the animations.</p>
+
+          <p><strong>Strike Phase:</strong> The attack connects. This is instantaneous — if you're in range when the strike phase begins, you take damage (or the anomaly's unique effect triggers). Positioning during the wind-up is everything. Don't be where the anomaly is aiming when the wind-up ends.</p>
+
+          <p><strong>Recovery Phase:</strong> After attacking, the anomaly pauses. Recovery IS affected by difficulty — it shrinks from 3 seconds on Shift 1 to just 1 second on Shift 5. This is your counter-attack or escape window. On lower shifts, you have time to use an item and retreat. On Shift 5, you need to already be moving before the recovery starts.</p>
+
+          <div class="tip-box">
+            <p><strong>Key Insight:</strong> The attack timing is consistent. Unlike detection range or movement speed, wind-up and recovery frames are fixed values per anomaly. Practice reading the wind-up animations in Shift 1, and you'll dodge the same anomaly perfectly on Shift 5. The skill transfers completely.</p>
+          </div>
+
+          <h3>Layer 5: Roaming Logic & Room Preferences</h3>
+
+          <p>Where anomalies choose to go isn't random — it follows priority rules:</p>
+
+          <p><strong>Room Traffic Weighting:</strong> Anomalies prefer rooms with higher player traffic. The lobby, patient rooms near the entrance, and the main hallway have the highest spawn/roam probability. Back rooms, storage, and the records office see fewer anomaly visits. Use this — treat high-traffic zones as dangerous and back rooms as relative safe havens.</p>
+
+          <p><strong>Door State Memory:</strong> Anomalies remember closed doors. If you close a door behind you, anomalies on the other side are less likely to path through it for 20-30 seconds. This is your most underrated escape tool — close doors as you pass through to create temporary barriers.</p>
+
+          <p><strong>Spawn Cooldown Zones:</strong> After an anomaly is countered or leaves a room, that room enters a 45-90 second cooldown where new anomalies won't spawn there. Use this to create safe working zones during intensive treatment sequences.</p>
+
+          <h2>Anomaly-Specific Behavior Profiles</h2>
+
+          <p>While all anomalies share the engine above, each one has unique behavioral quirks. Here are the most important ones to know:</p>
+
+          <h3>Three Eyes — The Patient Patroller</h3>
+          <p>Three Eyes follows a fixed patrol through the main patient wing. It uses CCTV-style visual detection with a 12-meter range on higher shifts. Its aggression escalates slowly, giving you ample warning. The key behavior: Three Eyes ALWAYS turns its head before changing direction in its patrol. If you see the head turn, it's about to move — use that moment to slip past from behind. Its attack has a long 1.5-second wind-up but covers a wide arc.</p>
+
+          <h3>Skinwalker — The Adaptive Hunter</h3>
+          <p><a href="../anomalies/anomaly-skinwalker.html">Skinwalker</a> is the most behaviorally complex anomaly. It mimics patients visually but moves with a telltale gait. Once it detects you, it escalates to hostile in just 1-3 seconds — the fastest of any anomaly. Skinwalker also breaks the roaming rules: it will leave its home zone to pursue a detected player across the entire hospital. Its 0.6-second wind-up is nearly instantaneous. Never engage a Skinwalker in a hallway — always break line of sight and use door-closing to reset its pursuit.</p>
+
+          <h3>Hollow Face — The Silent Stalker</h3>
+          <p>Hollow Face uses proximity detection primarily — it doesn't need to see you to know you're nearby. It moves silently (no footsteps audio cue) and escalates from suspicious to hostile in 5 seconds flat. The tell: a subtle audio hum that gets louder as it approaches. If you hear the hum, crouch-walk away immediately. Its attack wind-up is 1.2 seconds but it strikes in a straight line, so lateral movement dodges it cleanly.</p>
+
+          <h3>Bed Monster — The Room Guardian</h3>
+          <p><a href="../anomalies/anomaly-bed-monster.html">Bed Monster</a> is a stationary anomaly that only activates when a player enters its room while a bed is unoccupied. It has the shortest detection range (4 meters) but the fastest wind-up-to-strike time of any ambient anomaly (0.5 seconds). Behavior quirk: Bed Monster only attacks if you're facing away from it. If you maintain visual contact, it stays frozen. Use the "face the corner" technique — back into the room while watching Bed Monster, and it won't trigger.</p>
+
+          <h2>Behavioral Changes Across Shifts</h2>
+
+          <p>Anomaly behavior scales with shift difficulty in five specific ways. Knowing exactly WHAT changes (and what doesn't) lets you adjust your playstyle precisely:</p>
+
+          <p><strong>Detection Range:</strong> Increases +2 meters per shift. Shift 1 anomalies detect at 4-6 meters; Shift 5 at 12-14 meters. This is the single biggest difficulty spike — you have far less room for error on higher shifts.</p>
+
+          <p><strong>Movement Speed:</strong> Increases +10% per shift. A Shift 5 anomaly moves roughly 50% faster than its Shift 1 version. This means escape routes that work on early shifts may not give you enough distance on later ones.</p>
+
+          <p><strong>Escalation Speed:</strong> The time from suspicious to hostile decreases each shift. Shift 1 gives you 8 seconds of suspicious state; Shift 5 gives you 3 seconds. Detection-to-attack happens faster, leaving less reaction time.</p>
+
+          <p><strong>Recovery Shrink:</strong> Post-attack recovery time decreases, giving you shorter counter-attack windows. Shift 1: 3 seconds. Shift 5: 1 second.</p>
+
+          <p><strong>Simultaneous Active Anomalies:</strong> More anomalies are active at once on higher shifts. Shift 1: 1-2 active. Shift 3: 2-3 active. Shift 5: 3-5 active simultaneously, with overlapping patrol routes that create detection nets across the hospital.</p>
+
+          <h2>Predictive Evasion: Using Behavior Knowledge</h2>
+
+          <p>Now that you understand the behavior engine, here's how to use it proactively:</p>
+
+          <h3>Route Planning with Patrol Knowledge</h3>
+          <p>Before moving across the hospital, identify which anomalies are patrolling your intended route. Visual-class anomalies on fixed routes are easiest to plan around — time your movement for when they've turned a corner. Roamers require more caution; check their home zone before passing through.</p>
+
+          <h3>The Door-Close Escape Technique</h3>
+          <p>When a hunter detects you, your first action should be to break line of sight and close a door behind you. Door-closing triggers the anomaly's door-state memory, buying 20-30 seconds before it paths through. Use that window to reach a different room zone or prepare a counter.</p>
+
+          <h3>Audio Discipline</h3>
+          <p>Since every anomaly uses audio detection, controlling your sound output is a survival skill. Never run unless a hunter is already in pursuit. Close doors gently (hold the interact button for a soft close). Crouch-walk through rooms adjacent to known anomaly locations. The less audio you generate, the fewer detection events you trigger.</p>
+
+          <h3>State Reading</h3>
+          <p>When you spot an anomaly, immediately assess its state. Passive? You can share the room safely. Suspicious? Leave NOW — you have 3-5 seconds. Hostile? Break line of sight and escape. Attacking? Dodge the wind-up, then punish recovery. The state tells you exactly what to do.</p>
+
+          <div class="inner-links">
+            <h3>Related Guides</h3>
+            <ul>
+              <li><a href="../articles/article-anomaly-detection-flowchart.html">Anomaly Detection Flowchart — Visual, CCTV &amp; Photo Layers</a></li>
+              <li><a href="../articles/article-skinwalker-survival.html">Skinwalker Survival Guide — Counter Strategies &amp; Tips</a></li>
+              <li><a href="../articles/article-hostile-behavior-defense-guide.html">Hostile Behavior &amp; Defense Guide — Survive Direct Attacks</a></li>
+              <li><a href="../articles/article-anomaly-counter-guide.html">Anomaly Counter Guide — How to Counter Every Type</a></li>
+              <li><a href="../character-guides.html">Character Guides — All Anomalies, Enemies &amp; Classes</a></li>
+              <li><a href="../mission-walkthroughs.html">Mission Walkthroughs — All 5 Shifts</a></li>
+            </ul>
+          </div>
+
+          <h2>Frequently Asked Questions</h2>
+
+          <div class="faq-section">
+
+            <div class="faq-item">
+              <h4 class="faq-question">How do anomalies detect players in Animal Hospital Anomaly?</h4>
+              <div class="faq-answer">
+                <p>Anomalies use three detection methods: visual (line-of-sight within a 120° cone), audio (running, walking, item usage generate sound), and proximity (a 3-meter bubble that triggers regardless of sight or sound). Different anomalies rely on different combinations — visual-class anomalies prioritize sight, while Skinwalker and Hollow Face use all three methods simultaneously.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <h4 class="faq-question">Why do some anomalies react when I'm not looking at them?</h4>
+              <div class="faq-answer">
+                <p>This is proximity detection. Anomalies like Skinwalker and Hollow Face have a passive 3-meter proximity bubble — they know you're nearby even without line of sight or audio. This feels unfair to new players, but it's consistent: stay outside the 3-meter radius and these anomalies won't detect you unless you generate sound or enter their visual cone.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <h4 class="faq-question">Do anomaly attack patterns change on higher shifts?</h4>
+              <div class="faq-answer">
+                <p>The attack wind-up and recovery timings (in seconds) remain fixed per anomaly across all shifts — a 1.5-second wind-up on Shift 1 is still 1.5 seconds on Shift 5. What changes is detection range (+2 meters per shift), movement speed (+10% per shift), escalation speed (faster on higher shifts), and recovery time (shorter on higher shifts). The animation to watch for stays the same — you just have less time to react to it.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <h4 class="faq-question">What's the fastest way to break anomaly pursuit?</h4>
+              <div class="faq-answer">
+                <p>Break line of sight, then close a door between you and the anomaly. Door-closing triggers the anomaly's door-state memory, making it less likely to path through for 20-30 seconds. Combine this with crouch-walking (to eliminate audio) and you'll reset most hunters within 10 seconds. Hunters won't return to passive state for at least 10 seconds after losing sight+sound, giving you a safe window to reposition.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <h4 class="faq-question">Which anomalies are the most predictable?</h4>
+              <div class="faq-answer">
+                <p>Patroller-type anomalies are the most predictable. Three Eyes, Hollow Face, and CCTV Camera anomaly follow fixed routes through specific rooms. Stationary anomalies like Painting and Mirror are also predictable — they never move and only trigger within a set radius. Roamers are semi-random within a home zone. Hunters are the least predictable because they break from their normal pattern to pursue detected players.</p>
+              </div>
+            </div>
+
+            <div class="faq-item">
+              <h4 class="faq-question">How many anomalies can be active at once on Shift 5?</h4>
+              <div class="faq-answer">
+                <p>On Shift 5, 3-5 anomalies can be active simultaneously with overlapping patrol routes that create detection nets across the hospital. Combined with increased detection range (12-14 meters) and faster escalation speed, Shift 5 requires careful route planning and audio discipline. Prioritize back rooms and storage areas which see fewer anomaly visits compared to the main lobby and patient wing.</p>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </article>
+
+      <div class="share-bar">
+        <span class="share-bar-label">Share this guide:</span>
+        <a href="https://twitter.com/intent/tweet?url=https://animalhospitalanomalyguides.com/articles/article-anomaly-behavior-guide.html&text=Animal Hospital Anomaly Behavior Guide: How Anomalies Move, Hunt & Attack" class="share-link share-x" aria-label="Share on X (Twitter)" target="_blank" rel="noopener">X</a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://animalhospitalanomalyguides.com/articles/article-anomaly-behavior-guide.html" class="share-link share-facebook" aria-label="Share on Facebook" target="_blank" rel="noopener">Facebook</a>
+        <a href="https://www.reddit.com/submit?url=https://animalhospitalanomalyguides.com/articles/article-anomaly-behavior-guide.html&title=Animal Hospital Anomaly Behavior Guide: How Anomalies Move, Hunt & Attack" class="share-link share-reddit" aria-label="Share on Reddit" target="_blank" rel="noopener">Reddit</a>
+        <button class="share-link share-copy" aria-label="Copy link to clipboard" onclick="navigator.clipboard.writeText('https://animalhospitalanomalyguides.com/articles/article-anomaly-behavior-guide.html')">Copy Link</button>
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="../privacy-policy.html">Privacy Policy</a>
+        <a href="../about-us.html">About Us</a>
+        <a href="../contact-us.html">Contact</a>
+        <a href="../sitemap.xml">Sitemap</a>
+      </div>
+      <p>&copy; 2026 Animal Hospital Anomaly Guides. Not affiliated with the game developers.</p>
+    </div>
+  </footer>
+
+  <button class="back-to-top" aria-label="Back to top">↑</button>
+  <script src="../script.js"></script>
+
+</body>
+</html>
